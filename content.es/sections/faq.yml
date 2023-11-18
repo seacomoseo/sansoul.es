@@ -1,0 +1,16 @@
+title: FAQ
+subtitle: Preguntas Frecuentes
+size: md
+icon: circle-question
+rows:
+- type: collapsible
+  items:
+  - title: ¿Una pregunta de ejemplo?
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: ¿Otra pregunta de ejemplo?
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: ¿Otra pregunta más de ejemplo?
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.

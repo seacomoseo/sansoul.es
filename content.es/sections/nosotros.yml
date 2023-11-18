@@ -1,0 +1,48 @@
+title: Nosotros
+subtitle: Lorem ipsum dolor sit amet
+icon: circle-info
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    title: null
+    uppercase: true
+    underline: true
+  items:
+  - order: 2
+    bg: fondo.jpg
+    more:
+      align_y: strech
+  - order: 1
+    description: |
+      - Lorem ipsum dolor sit amet.
+      - Consectetur adipiscing elit.
+      - Sed do eiusmod tempor incididunt.
+      - Ut labore et dolore magna aliqua.
+      - Lorem ipsum dolor sit amet.
+      - Consectetur adipiscing elit.
+      - Sed do eiusmod tempor incididunt.
+      - Ut labore et dolore magna aliqua.
+      - Lorem ipsum dolor sit amet.
+      - Consectetur adipiscing elit.
+      - Sed do eiusmod tempor incididunt.
+      - Ut labore et dolore magna aliqua.
+      - Lorem ipsum dolor sit amet.
+      - Consectetur adipiscing elit.
+      - Sed do eiusmod tempor incididunt.
+      - Ut labore et dolore magna aliqua.
+    more:
+      align: left
+      align_xl: right
+  - order: 3
+    bg: fondo.jpg
+    more:
+      align_y: strech
+  - order: 4
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    more:
+      align: left

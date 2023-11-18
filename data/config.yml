@@ -1,0 +1,46 @@
+title: SanSoul Hugo Theme EXAMPLE
+description: SanSoul is the Hugo theme website services soul by lorensansol, you can copy and use like you want
+logo: logo.png
+legal_name: Nombre Legal de Ejemplo
+legal_dni: 12345678-A
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- LocalBusiness
+- Organization
+alternate_name:
+- SanSoul
+price_range: €€
+google_analytics: ''
+google_site_verification: ''
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.facebook.com/QuantumFracture
+- link: https://www.instagram.com/quantumfracture/
+- link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
+- link: https://twitter.com/QuantumFracture
+- link: https://www.linkedin.com/company/quantum-fracture
+- link: https://gitlab.com/lorensansol
+- link: https://github.com/lorensansol
+- link: https://mastersoflol.com/collections/quantumfracture?YTC
+
