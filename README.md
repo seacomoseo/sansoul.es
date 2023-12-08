@@ -110,7 +110,7 @@
   - `Continue`
   - `Activate domain` (if `Begin DNS transfer` end)
   - Repeat with `www.var_proj`
-  - ..........................................................
+  - ...........................................................
 
 
 #### Forms
