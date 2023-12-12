@@ -41,6 +41,7 @@ rows:
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   form:
     fill_inputs: true
+    action: https://formsubmit.co/seacomoseo@gmail.com
     items:
     - type: text
       name: Nombre
