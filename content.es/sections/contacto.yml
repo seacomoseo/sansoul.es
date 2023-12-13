@@ -41,8 +41,11 @@ rows:
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   form:
     fill_inputs: true
-    action: https://formsubmit.co/seacomoseo@gmail.com
+    action: https://formsubmit.co/8692495f53239aa14b0f8bd3de49079e
     items:
+    - type: hidden
+      name: _cc
+      placeholder: info@seacomoseo.com
     - type: text
       name: Nombre
       required: true
@@ -54,6 +57,36 @@ rows:
     - type: textarea
       name: Mensaje
       required: true
+
+    - type: file
+      name: Factura
+      hint: Adjunta tu factura eléctrica
+      accept: .pdf,.png,.jpg,.jpeg
+      required: true
+    - type: select
+      name: Select
+      placeholder: Seleción
+      required: true
+      options:
+      - option: Seleción Opción 1
+      - option: Seleción Opción 2
+      - option: Seleción Opción 3
+    - type: radio
+      name: Radio
+      placeholder: Radios
+      required: true
+      options:
+      - option: Radio Opción 1
+      - option: Radio Opción 2
+      - option: Radio Opción 3
+    - type: checkbox
+      name: Checkbox
+      placeholder: Checkboxes
+      required: true
+      options:
+      - option: Checkbox Opción 1
+      - option: Checkbox Opción 2
+      - option: Checkbox Opción 3
   # form:
   #   fill_inputs: true
   #   action: https://docs.google.com/forms/d/e/1FAIpQLSeCsNLiGhFPUqbDMibhy3Vwj_ZH08-b7Zd1RAPmPc3H8rcd6w/formResponse
