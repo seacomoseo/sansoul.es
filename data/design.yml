@@ -66,6 +66,6 @@ lightbox_overlay:
   opacity: 0.8
   color: black
 performance:
-  showup: false
-  parallax: false
+  showup: true
+  parallax: true
   srcsetx2: true

@@ -6,24 +6,22 @@ rows:
   design:
     num_xs: true
     color: white
-    image: fondo.jpg
     inset: true
     uppercase: true
     underline: true
+    image: fondo.jpg
+    icon: frog
     link: '#ejemplo'
   items:
   - title: OLA K ASE
     subtitle: Agámoslo!
-    icon: dog
     description: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   - title: OLA K ASE
     subtitle: Agámoslo!
-    icon: cat
     description: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   - title: OLA K ASE
     subtitle: Agámoslo!
-    icon: frog
     description: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
