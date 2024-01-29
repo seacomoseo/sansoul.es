@@ -40,7 +40,7 @@ rows:
       Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 - type: columns
   items:
-  - description: |-
+  - description: |
       ¡Hay más aquí! ¡Añade la tuya!
       {.subtitle}
 
