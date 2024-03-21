@@ -33,6 +33,7 @@ custom_code:
     lang: html
   css:
     code: ''
+    lang: css
   js:
     code: ''
     lang: javascript
