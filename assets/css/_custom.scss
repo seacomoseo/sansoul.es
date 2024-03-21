@@ -1,28 +1,13 @@
-// Header Animations
-
-@keyframes logo-drop {
-  0% {
-    transform: scale(3);
-    opacity: 0;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
+// Header 
 #body-inicio #header {
-  .image {
-    path {
-      fill: var(--text);
-    }
-    transform-origin: center;
-    animation: logo-drop 1s 0s both;
-  }
-  @mixin show-from($delay) {
-    animation: show-from .5s (.5 + .25s * $delay) both;
-  }
-  .section__title {       @include show-from(1); }
+  @mixin show-from($delay) { animation: show-from .5s (.5 + .25s * $delay) both; }
+  .image {                @include show-from(0); --show-from: scale(3); }
+  .box__title {           @include show-from(1); }
   .subtitle {             @include show-from(2); }
   .description p {        @include show-from(3); }
   .description .buttons { @include show-from(4); }
+
+  .image path {
+    fill: var(--text);
+  }
 }

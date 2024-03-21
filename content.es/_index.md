@@ -12,7 +12,7 @@ sections:
 - file: nosotros
 - file: servicios
   modals:
-  - ejemplo
+  - file: ejemplo
 - file: proceso
 - file: fotos
 - file: noticias

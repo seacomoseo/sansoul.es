@@ -10,7 +10,7 @@ params:
   drive_link: ''
   drive_mails: ''
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: []
 languages:
   es:
     paginatePath: pagina

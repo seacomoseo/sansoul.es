@@ -4,7 +4,7 @@ title_seo: ''
 slug: eventos
 description: Lista de eventos
 image: ''
-draft: true
+draft: false
 noindex: true
 translationKey: events
 ---

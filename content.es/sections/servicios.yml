@@ -1,27 +1,53 @@
 title: Servicios
 subtitle: ¿Qué procesos seguimos?
 icon: rocket-launch
-rows:
-- type: columns
-  design:
-    num_xs: true
-    color: white
+box:
+  columns: auto
+  # columns_min: true
+  uppercase: true
+  underline: true
+  # icon: frog
+  # image: fondo.jpg
+  # link: '#ejemplo'
+  icon_type: bottom
+  # direction: bottom
+  border: link
+  ratio: 2x1
+  inset: true
+  color: white
+  pill: true
+boxes:
+- boxes:
+  - link: '#ejemplo'
+  - subtitle: Más Agámoslo!
+  - icon: frog
+  - title: Ola k ase
+    # boxes:
+    # - link: '#mama-mia'
+    # - subtitle: MAMA MIA
+    #   boxes:
+    #   - link: '#mama-mia'
+    #   - subtitle: MAMA MIA
+  - description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+  - image: fondo.jpg
     inset: true
-    uppercase: true
-    underline: true
-    image: fondo.jpg
-    icon: frog
-    link: '#ejemplo'
-  items:
-  - title: OLA K ASE
-    subtitle: Agámoslo!
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-  - title: OLA K ASE
-    subtitle: Agámoslo!
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-  - title: OLA K ASE
-    subtitle: Agámoslo!
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    border: link
+- title: Ola k ase
+  subtitle: Agámoslo!
+  underline: true
+  description: |
+    Lorem ipsum dolor sit amet, [consectetur](#ejemplo "nofollow") adipiscing elit, sed do eiusmod tempor.
+- title: Ola k ase
+  subtitle: Agámoslo!
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+  link: '#ejemplo'
+  button: hide
+  ofuscate: true
+- icon: star
+  icon_type: top
+  title: Ola k ase
+  subtitle: Agámoslo!
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.

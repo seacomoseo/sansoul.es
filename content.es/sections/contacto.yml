@@ -1,11 +1,12 @@
 title: Contacto
 subtitle: ¿En qué podemos ayudarte?
 button: link
-size: sm
 icon: paper-plane
-rows:
-- type: contact
-  data:
+box:
+  columns: 2
+boxes:
+- view: contact
+  buttons:
   - type: schedule
     days: Lunes a Viernes
     hours: 9:00 - 12:30 y 14:30 - 20:00
@@ -18,20 +19,7 @@ rows:
   - type: mail
     label: info@sansoul.es
     full: true
-  - type: custom
-    link: https://www.instagram.com/quantumfracture/
-    label: Instagram
-    icon: instagram
-    font_alt: false
-    button: dark
-  - type: custom
-    link: https://www.facebook.com/QuantumFracture
-    label: Facebook
-    icon: facebook-f
-    font_alt: false
-    button: light
   - type: address
-    active: true
     name: ''
     streetAddress: Ronda de Levante, 1
     postalCode: 30008
@@ -39,21 +27,18 @@ rows:
     addressRegion: Murcia
     addressCountry: España
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-  form:
-    fill_inputs: true
-    items:
-    - type: text
-      name: Nombre
-      required: true
-    - type: tel
-      name: Teléfono
-    - type: email
-      name: Email
-      required: true
-    - type: textarea
-      name: Mensaje
-      required: true
+  inputs:
+  - type: text
+    name: Nombre
+    required: true
+  - type: tel
+    name: Teléfono
+  - type: email
+    name: Email
+    required: true
+  - type: textarea
+    name: Mensaje
+    required: true
+- view: map
   map:
-    active: true
-    link: https://g.page/webmurcia
-    iframe: ''
+    link: hide

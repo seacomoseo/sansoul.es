@@ -1,20 +1,9 @@
-content:
-  logo: logo.svg
-  title: ''
-  subtitle: ''
-  uppercase: false
-  underline: false
-  align: left
-  color: light
-  toc_color: white
-  border: main
-  reading_time: true
 common:
-  size: ''
-  num: 3
-  num_xs: false
+  columns: 3
+  columns_min: false
   gap: ''
-  title_size: null
+  hn: null
+  hs: null
   uppercase: false
   underline: false
   icon: ''
@@ -31,7 +20,7 @@ common:
   align: left
   align_y: ''
   align_x: ''
-  padding: ''
+  padding: null
   color: white
   gradient: ''
   gradient_type: ''

@@ -3,11 +3,10 @@ subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensa
 image: logo.svg
 color: main-dark
 bg: fondo.jpg
+full: true
+image_min: 18
+image_max: 20
 description: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-  [btn icon-plus Más](#principal)
-more:
-  full_screen: true
-  image_min: 18
-  image_max: 20
+  [btn icon-plus Más](#nosotros)
