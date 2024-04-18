@@ -20,16 +20,16 @@
 - Design
   - You can edit any file with the same structure of theme sansoul
   - GENERAL
-    - `config.yml`
+    - `hugo.yml`
     - `data/*.{yml,md}`
   - IMG + LOGO + FAVICON
     - `assets/media/` folder ⏩ [Compress image tool](https://compressor.io/)
       - `fondo.jpg`
-      - `logo.svg`
-      - `logo.png`
-      - `icon.png`
-      - `favicon.ico` ⏩ [Favicon converter tool](https://favicon.io/favicon-converter/)
-    - Gitlab, Github, Netlify and Cloudflare Pages update icon (project and account)
+      - `base/logo.svg`
+      - `base/logo.png`
+      - `base/icon.png`
+      - `base/favicon.ico` ⏩ [Favicon converter tool](https://favicon.io/favicon-converter/)
+    - Netlify project update icon
   - FONTS
     - Fonts that not be in Google Fonts:
       - .otf/.ttf files in `assets/fonts` + rename
@@ -75,7 +75,7 @@
     - `assets/redirects.md`
   - ROBOTS
     - `assets/robots.md`
-  - If Multilanguaje and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`
+  - If Multilanguage and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`
   - Try in Safari and Firefox
   - Check in [W3 Validator](https://validator.w3.org/)
   - Check in [PageSpeed Insights](https://pagespeed.web.dev/)

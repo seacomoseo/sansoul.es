@@ -2,8 +2,8 @@ title: Servicios
 subtitle: ¿Qué procesos seguimos?
 icon: rocket-launch
 box:
-  columns: auto
-  # columns_min: true
+  columns: 0
+  columns_min: 2
   uppercase: true
   underline: true
   # icon: frog
@@ -45,7 +45,9 @@ boxes:
   link: '#ejemplo'
   button: hide
   ofuscate: true
+  span: 2
 - icon: star
+  icon_size: 3
   icon_type: top
   title: Ola k ase
   subtitle: Agámoslo!

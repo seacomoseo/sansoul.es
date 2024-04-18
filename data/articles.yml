@@ -1,9 +1,9 @@
 common:
   columns: 3
-  columns_min: false
+  columns_min: 1
   gap: ''
-  hn: null
-  hs: null
+  hn: ''
+  hs: 0
   uppercase: false
   underline: false
   icon: ''
@@ -24,7 +24,7 @@ common:
   color: white
   gradient: ''
   gradient_type: ''
-  color_opacity: null
+  color_alpha: null
   pill: false
   card: false
   hide_shadow: false

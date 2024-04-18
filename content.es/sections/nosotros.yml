@@ -8,7 +8,7 @@ boxes:
   bg: fondo.jpg
 - order: 1
   align: left
-  align_xl: right
+  align_max: right
   align_y: center
   description: |
     Lorem ipsum dolor sit amet.
