@@ -1,0 +1,18 @@
+_:
+  columns: 3
+  image: gradient
+  ratio: 16x9
+  inset: true
+  align: left
+  color: white
+  hide_categories: true
+  reading_time: true
+  button: hide
+blog: {}
+events: {}
+products: {}
+taxonomies: {}
+pages: {}
+page: {}
+related:
+  slider: true

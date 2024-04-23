@@ -1,7 +1,7 @@
+name: Proceso
 title: Proceso
 subtitle: ¿Qué pasos seguimos?
 icon: shoe-prints
-view: steps
 step:
   underline: true
 steps:

@@ -4,7 +4,7 @@ title_seo: ''
 slug: etiquetas
 description: Listado de etiquetas
 image: ''
-draft: true
+draft: false
 noindex: true
 translationKey: tags
 ---

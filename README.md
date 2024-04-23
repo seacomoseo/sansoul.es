@@ -24,7 +24,6 @@
     - `data/*.{yml,md}`
   - IMG + LOGO + FAVICON
     - `assets/media/` folder ⏩ [Compress image tool](https://compressor.io/)
-      - `fondo.jpg`
       - `base/logo.svg`
       - `base/logo.png`
       - `base/icon.png`

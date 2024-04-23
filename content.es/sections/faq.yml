@@ -1,8 +1,8 @@
+name: FAQ
 title: FAQ
 subtitle: Preguntas Frecuentes
 size: md
 icon: circle-question
-view: collapsible
 collapsibles:
 - title: ¿Una pregunta de ejemplo?
   description: |

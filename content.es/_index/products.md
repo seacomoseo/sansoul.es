@@ -4,7 +4,7 @@ title_seo: ''
 slug: productos
 description: Listado de productos
 image: ''
-draft: true
+draft: false
 noindex: true
 translationKey: products
 ---

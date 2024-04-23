@@ -1,12 +1,9 @@
+name: Noticias
 title: Noticias
 subtitle: Novedades
 icon: rss
-view: articles
-articles:
-  type: blog
-  categories: []
-  tags: []
-  author: ''
+list:
+  type: [blog]
   max: 12
 box:
   columns: 4

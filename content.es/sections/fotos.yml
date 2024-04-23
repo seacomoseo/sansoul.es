@@ -1,13 +1,10 @@
+name: Fotos
 title: Fotos
 subtitle: ¿Cómo son nuestras instalaciones?
 icon: aperture
-view: gallery
 gallery:
   columns: 5
   type: rows
-  wrap: ''
-  gap: true
-  grayscale: false
   button: hide
 images:
 - fondo.jpg

@@ -1,7 +1,7 @@
+name: Reseñas
 title: Reseñas
 subtitle: ¿Qué dicen de nosotros?
 icon: comment
-view: reviews
 review:
   columns: 3
   color: white
