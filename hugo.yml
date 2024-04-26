@@ -1,5 +1,4 @@
 baseURL: ''
-Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:

@@ -16,7 +16,8 @@ box:
   ratio: 2x1
   inset: true
   color: white
-  pill: true
+  # pill: true
+  slider: true
 boxes:
 - boxes:
   - link: '#ejemplo'
@@ -47,6 +48,12 @@ boxes:
   button: hide
   ofuscate: true
   span: 2
+  data: column
+  data_custom:
+  - icon: star
+    label: Ejemplaco
+  - icon: list
+    label: Yeah
 - icon: star
   icon_size: 3
   icon_type: top

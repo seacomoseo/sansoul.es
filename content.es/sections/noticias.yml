@@ -3,7 +3,7 @@ title: Noticias
 subtitle: Novedades
 icon: rss
 list:
-  type: [blog]
+  types: [blog]
   max: 12
 box:
   columns: 4
