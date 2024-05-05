@@ -66,7 +66,7 @@
     - `data/config.yml ⏩ custom_code.css.code`
   - JS
     - `assets/js/*`
-    - `layouts/partials/sections/common/scripts.html`
+    - `layouts/partials/base/scripts.html`
     - `data/config.yml ⏩ custom_code.js.code`
   - IMG
     - `assets/media/*`
