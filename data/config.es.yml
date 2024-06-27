@@ -1,0 +1,37 @@
+title: Tema SanSoul de Hugo EJEMPLO
+description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
+logo: logo.png
+logo_title: ''
+logo_subtitle: ''
+legal:
+  name: ''
+  dni: ''
+  email: ''
+  location: ''
+  country: España
+schema:
+  types:
+  - LocalBusiness
+  - Organization
+  alternateName:
+  - SanSoul
+  sameAs:
+  - https://www.facebook.com/QuantumFracture
+  - https://www.instagram.com/quantumfracture/
+  - https://g.page/webmurcia
+  phones:
+  - 123456789
+  - +34 987 654 321
+  address:
+  - name: Me lo invento
+    streetAddress: Ronda de Levante, 1
+    postalCode: 30008
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+  hasMap:
+  - https://g.page/webmurcia
+  priceRange: €€
+others:
+  google_analytics: ''
