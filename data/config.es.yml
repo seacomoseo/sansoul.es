@@ -23,15 +23,39 @@ schema:
   - 123456789
   - +34 987 654 321
   address:
-  - name: Me lo invento
+  - name: Sea Como SEO
     streetAddress: Ronda de Levante, 1
     postalCode: 30008
     addressLocality: Murcia
     addressRegion: Murcia
-    addressCountry: España
+    addressCountry: ES
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-  hasMap:
-  - https://g.page/webmurcia
+    hasMap: https://g.page/webmurcia
+  openingHoursSpecification:
+  - dayOfWeek:
+    - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+    - Friday
+    opens: 9:00
+    closes: 14:00
+  - dayOfWeek:
+    - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+    - Friday
+    opens: 17:00
+    closes: 20:00
+  - dayOfWeek:
+    - Saturday
+    # - Sunday
+    opens: 9:00
+    closes: 13:00
   priceRange: €€
+  aggregateRating:
+    ratingCount: 3
+    ratingValue: 5
 others:
   google_analytics: ''

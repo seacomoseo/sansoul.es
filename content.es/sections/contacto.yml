@@ -21,14 +21,8 @@ boxes:
     label: info@sansoul.es
     full: true
   - type: address
-    label: ''
-    name: ''
-    streetAddress: Ronda de Levante, 1
-    postalCode: 30008
-    addressLocality: Murcia
-    addressRegion: Murcia
-    addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+    label: Ronda de Levante, 1, 30008 Murcia
+    address: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
   inputs:
   - type: text
     name: Nombre
@@ -44,3 +38,4 @@ boxes:
 - view: map
   map:
     link: hide
+    address: Ronda de Levante, 1, 30008 Murcia
