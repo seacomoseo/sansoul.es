@@ -19,4 +19,5 @@ sections:
 - file: faq
 - file: resenas
 - file: contacto
+- file: mapa
 ---

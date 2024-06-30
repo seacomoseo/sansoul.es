@@ -7,7 +7,7 @@ box:
   columns: 2
 boxes:
 - view: contact
-  buttons:
+  contact:
   - type: schedule
     days: Lunes a Viernes
     hours: 9:00 - 12:30 y 14:30 - 20:00
@@ -22,7 +22,7 @@ boxes:
     full: true
   - type: address
     label: Ronda de Levante, 1, 30008 Murcia
-    address: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
+    anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
   inputs:
   - type: text
     name: Nombre
@@ -36,6 +36,4 @@ boxes:
     name: Mensaje
     required: true
 - view: map
-  map:
-    link: hide
-    address: Ronda de Levante, 1, 30008 Murcia
+  map: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
