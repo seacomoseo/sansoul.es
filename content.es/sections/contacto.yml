@@ -23,6 +23,7 @@ boxes:
   - type: address
     label: Ronda de Levante, 1, 30008 Murcia
     anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
+  # form: contacto
   inputs:
   - type: text
     name: Nombre
