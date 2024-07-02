@@ -74,7 +74,6 @@
     - `assets/redirects.md`
   - ROBOTS
     - `assets/robots.md`
-  - If Multilanguage and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`
   - Try in Safari and Firefox
   - Check in [W3 Validator](https://validator.w3.org/)
   - Check in [PageSpeed Insights](https://pagespeed.web.dev/)

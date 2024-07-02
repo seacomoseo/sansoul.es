@@ -18,3 +18,42 @@ boxes:
     - icon-cookie-bite    {{< internal-link cookies >}}
     - icon-seacomoseo     {{< i18n web-design >}} [seacomoseo.com](https://seacomoseo.com/)
     {.list-inline}
+- inputs:
+  - type: text
+    name: Nombre2
+    required: true
+  - type: tel
+    name: Teléfono
+  - type: email
+    name: Email
+    required: true
+  - type: textarea
+    name: Mensaje
+    required: true
+- title: holi2
+- boxes:
+  - title: holi3
+  - inputs:
+    - type: text
+      name: Nombre3
+      required: true
+    - type: tel
+      name: Teléfono
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  inputs:
+  - type: text
+    name: Nombre1
+    required: true
+  - type: tel
+    name: Teléfono
+  - type: email
+    name: Email
+    required: true
+  - type: textarea
+    name: Mensaje
+    required: true
