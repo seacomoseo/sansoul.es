@@ -8,7 +8,7 @@ draft: false
 noindex: false
 translationKey: home
 sections:
-- file: header
+- file: _header
 - file: nosotros
 - file: servicios
   modals:
