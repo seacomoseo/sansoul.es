@@ -5,7 +5,8 @@ bg: fondo.jpg
 full: true
 boxes:
 - image: logo.svg
-  span: .25
+  span: .125
+  span_min: .5
 - title: SanSoul Hugo Theme
   hn: p
   hs: 0

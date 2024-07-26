@@ -47,7 +47,7 @@ boxes:
   link: '#ejemplo'
   button: hide
   ofuscate: true
-  span: 2
+  span_min: 2
   data: column
   data_custom:
   - icon: star

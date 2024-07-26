@@ -57,5 +57,7 @@ schema:
   rating:
     count: 3
     value: 5
+  images:
+  - fondo.jpg
 others:
   google_analytics: ''
