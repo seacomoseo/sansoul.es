@@ -2,9 +2,7 @@
 title: Divisores
 title_seo: ''
 slug: divisores
-description: Divisores que puedes utilizar para separar secciones de las páginas
-  tipo Landing y el Footer. Se pueden seleccionar en el administrador de
-  contenidos.
+description: Divisores que puedes utilizar para separar secciones. Se pueden seleccionar en el administrador de contenidos.
 image: ''
 categories: []
 tags: []
@@ -17,6 +15,6 @@ lastmod: 2022-02-22
 translationKey: dividers
 ---
 
-Divisores que puedes utilizar para separar secciones de las páginas tipo `Landing` y el `Footer`. Se pueden seleccionar en el administrador de contenidos.
+Divisores que puedes utilizar para separar secciones. Se pueden seleccionar en el administrador de contenidos (CMS).
 
 {{< dividers >}}
