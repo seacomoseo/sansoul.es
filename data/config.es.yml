@@ -1,8 +1,7 @@
-title: Tema SanSoul de Hugo EJEMPLO
-description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
-logo: logo.png
-logo_title: ''
-logo_subtitle: ''
+menu:
+  logo: logo.svg
+  title: SanSoul
+  subtitle: Hugo Theme
 legal:
   name: ''
   dni: ''
@@ -13,9 +12,14 @@ schema:
   types:
   - LocalBusiness
   - Organization
-  alternate_names:
+  names:
+  - Tema SanSoul de Hugo EJEMPLO
   - SanSoul
-  same_as:
+  description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
+  logo: logo.svg
+  images:
+  - fondo.jpg
+  social:
   - https://www.facebook.com/QuantumFracture
   - https://www.instagram.com/quantumfracture/
   - https://g.page/webmurcia
@@ -57,7 +61,5 @@ schema:
   rating:
     count: 3
     value: 5
-  images:
-  - fondo.jpg
 others:
   google_analytics: ''
