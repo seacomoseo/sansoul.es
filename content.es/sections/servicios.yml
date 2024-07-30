@@ -54,6 +54,7 @@ boxes:
     label: Ejemplaco
   - icon: list
     label: Yeah
+  parallax: box
 - icon: star
   icon_size: 3
   icon_type: top
