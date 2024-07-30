@@ -7,6 +7,7 @@ box:
 boxes:
 - order: 2
   bg: fondo.jpg
+  parallax: box
 - order: 1
   align: left
   align_max: right

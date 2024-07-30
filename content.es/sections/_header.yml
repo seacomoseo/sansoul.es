@@ -1,10 +1,10 @@
 name: Cabecera
-anchor: SanSoul Hugo Theme
+hanchor: SanSoul Hugo Theme
 color: main-dark
 bg: fondo.jpg
 full: true
 boxes:
-- image: logo.svg
+- image: base/logo.svg
   span: .125
   span_min: .5
 - title: SanSoul Hugo Theme

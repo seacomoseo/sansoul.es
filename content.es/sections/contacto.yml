@@ -1,12 +1,19 @@
 name: Contacto
 title: Contacto
 subtitle: ¿En qué podemos ayudarte?
-button: link
 icon: paper-plane
+menu_button: link
 box:
   columns: 2
 boxes:
-- view: contact
+- social:
+  - link: https://www.facebook.com/QuantumFracture
+  - link: https://www.instagram.com/quantumfracture/
+  - link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
+  - link: https://twitter.com/QuantumFracture
+  - link: https://www.linkedin.com/company/quantum-fracture
+  - link: https://github.com/lorensansol
+  - link: https://mastersoflol.com/collections/quantumfracture?YTC
   contact:
   - type: schedule
     days: Lunes a Viernes

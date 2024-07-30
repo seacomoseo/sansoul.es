@@ -74,10 +74,5 @@ shadow:
   blur: 0
   color: black
   opacity: 0.15
-lightbox_overlay:
-  opacity: 0.8
-  color: black
 performance:
-  showup: true
-  parallax: false
-  srcsetx2: true
+  show: true

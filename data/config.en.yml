@@ -1,2 +1,4 @@
-title: SanSoul Hugo Theme EXAMPLE
-description: SanSoul is the soul of lorensansol's Hugo theme with which to generate static websites, you can copy it and use it however you want
+schema:
+  names:
+  - SanSoul Hugo Theme EXAMPLE
+  description: SanSoul is the soul of lorensansol's Hugo theme with which to generate static websites, you can copy it and use it however you want
