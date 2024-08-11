@@ -39,7 +39,7 @@ boxes:
   subtitle: Agámoslo!
   underline: true
   description: |
-    Lorem ipsum dolor sit amet, [consectetur](#ejemplo "nofollow") adipiscing elit, sed do eiusmod tempor.
+    Lorem ipsum dolor sit amet, [consectetur](fondo.jpg "nofollow") adipiscing elit, sed do eiusmod tempor.
 - title: Ola k ase
   subtitle: Agámoslo!
   description: |
