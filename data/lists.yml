@@ -6,6 +6,7 @@ all:
   align: left
   color: white
   button: hide
+  hide_reading_time: true
 blog: {}
 events: {}
 products: {}
