@@ -31,18 +31,18 @@ fonts:
 colors:
   main:
     color: '#bdd5ea'
-    light: '#fff'
-    dark: '#fff'
+    light: ''
+    dark: ''
     contrast: text
   alt:
-    color: '#fff'
-    light: '#fff'
-    dark: '#fff'
+    color: ''
+    light: ''
+    dark: ''
     contrast: all
   link:
     color: '#fe5f55'
-    light: '#fff'
-    dark: '#fff'
+    light: ''
+    dark: ''
     contrast: text
   base:
     white: '#fff'
@@ -51,7 +51,7 @@ colors:
     dark: '#282525'
     black: '#000'
 rounded:
-  radius: .33
+  radius: 0.33
   chamfer: true
 buttons:
   sides_round: false
@@ -73,6 +73,6 @@ shadow:
   top: 0.15
   blur: 0
   color: black
-  opacity: 0.15
+  alpha: 0.85
 performance:
   show: true

@@ -3,12 +3,12 @@ title: Admin
 title_seo: ''
 slug: admin
 description: Es lo que tiene molar Es lo que tiene molar Es lo que tiene molar Es lo que tiene molar Es lo que tiene molar Es lo que tiene molar Es lo que
-image: logo.png
+image: base/icon.png
+job_title: ''
+social: []
 toc: false
 draft: false
 noindex: true
-job_title: ''
-social: []
 translationKey: admin
 ---
 Ya tu sabe mi amol.

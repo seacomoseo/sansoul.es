@@ -1,4 +1,4 @@
-_:
+all:
   columns: 3
   image: gradient
   ratio: 16x9

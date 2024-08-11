@@ -5,5 +5,5 @@ description: |
   - icon-scale-balanced {{< internal-link legal >}}
   - icon-shield-keyhole {{< internal-link privacy >}}
   - icon-cookie-bite    {{< internal-link cookies >}}
-  - icon-seacomoseo     {{< i18n web-design >}} [seacomoseo.com](https://seacomoseo.com/)
+  - icon-seacomoseo     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
   {.list-inline}
