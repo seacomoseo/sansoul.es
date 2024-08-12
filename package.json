@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lorensansol/sansoul.es.git"
+    "url": "git+https://github.com/seacomoseo/sansoul.es.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lorensansol/sansoul.es/issues"
+    "url": "https://github.com/seacomoseo/sansoul.es/issues"
   },
-  "homepage": "https://github.com/lorensansol/sansoul.es"
+  "homepage": "https://github.com/seacomoseo/sansoul.es"
 }
