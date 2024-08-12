@@ -10,11 +10,11 @@
 
 - If new project (not fork):
   - Copy [var_proj project files](https://github.com/var_user/var_proj)
-  - `git submodule add https://github.com/lorensansol/sansoul.git themes/sansoul`
+  - `git submodule add https://github.com/seacomoseo/sansoul.git themes/sansoul`
 - Else if fork:
   - Download submódule theme files: `git submodule update --init --recursive`
 - If you want use svg emojies:
-  - `git submodule add https://github.com/lorensansol/sansoul-emojis.git layouts/partials/svg/emojis`
+  - `git submodule add https://github.com/seacomoseo/sansoul-emojies.git layouts/partials/svg/emojis`
 - Now you can see the run project in the browser with the `do server` comand
 - `README.md` ⏩ edit baseURL ("var_proj") + delete steps bit by bit
 - Design
