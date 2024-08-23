@@ -7,6 +7,27 @@ image: fondo.jpg
 draft: false
 noindex: false
 translationKey: home
+cascade:
+  type: single
+
+menu:
+  logo: false
+  sticky: auto
+  size: ''
+  show_sections: true
+  show_modals: true
+section:
+- underline: true
+  uppercase: true
+  alpha: .7
+  parallax: fix
+  divider: curve-side
+  flip_x: false
+  flip_y: false
+- color: white
+  flip_x: true
+  flip_y: true
+
 sections:
 - file: _header
 - file: nosotros

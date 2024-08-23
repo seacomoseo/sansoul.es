@@ -5,7 +5,9 @@ names:
 - Tema SanSoul de Hugo EJEMPLO
 - SanSoul
 description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
-logo: logo.svg
+legal: null
+nif: null
+logo: base/logo.svg
 images:
 - fondo.jpg
 social:
@@ -24,6 +26,10 @@ address:
   country: ES
   geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   link: https://g.page/webmurcia
+areas:
+- Región de Murcia
+- Internacional
+- Online
 open:
 - days:
   - monday
@@ -47,6 +53,13 @@ open:
   opens: 9:00
   closes: 13:00
 prices: €€
-rating:
-  count: 3
-  value: 5
+services:
+- name: Diseño Web
+  price: 800.00
+  area: Internacional
+- name: SEO
+  price: 250.00
+  area: Internacional
+- name: SEM
+  price: 350.00
+  area: Internacional

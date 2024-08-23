@@ -1,5 +1,6 @@
-baseURL: ''
-buildFuture: false
+baseURL: https://sansoul.netlify.app
+buildFuture: true
+timeZone: Europe/Madrid
 theme: [sansoul]
 params:
   git_url: ''
