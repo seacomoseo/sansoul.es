@@ -55,11 +55,14 @@ open:
 prices: €€
 services:
 - name: Diseño Web
+  description: null
   price: 800.00
   area: Internacional
 - name: SEO
+  description: null
   price: 250.00
   area: Internacional
 - name: SEM
+  description: null
   price: 350.00
   area: Internacional
