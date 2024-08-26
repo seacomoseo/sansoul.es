@@ -63,6 +63,5 @@ services:
   price: 250.00
   area: Internacional
 - name: SEM
-  description: null
-  price: 350.00
+  description: Descripción de ejemplo
   area: Internacional
