@@ -2,7 +2,12 @@
 title: Divisores
 slug: divisores
 description: Divisores que puedes utilizar para separar secciones. Se pueden seleccionar en el administrador de contenidos.
-categories: [category3, category2, category1, category0]
+date: 2024-08-27 18:20:19
+category:
+- categoria-3
+- categoria-2
+- categoria-1
+- categoria-0
 author: admin
 ---
 

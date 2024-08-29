@@ -12,7 +12,7 @@ langs:
     nif: ''
     email: ''
     location: ''
-    country: España
-- lang: en
-  title: SanSoul Hugo Theme EXAMPLE
-  description: SanSoul is the soul of lorensansol's Hugo theme with which to generate static websites, you can copy it and use it however you want
+# - lang: en
+#   title: SanSoul Hugo Theme EXAMPLE
+#   description: SanSoul is the soul of lorensansol's Hugo theme with which to generate static websites, you can copy it and use it however you want
+#   disable: true
