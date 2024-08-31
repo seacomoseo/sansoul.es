@@ -1,6 +1,6 @@
 # var_proj
 
-[![var_proj](/assets/media/logo.png)](https://var_proj/)
+[![var_proj](/assets/media/base/icon.png)](https://var_proj/)
 
 
 ## STEPS

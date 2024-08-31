@@ -1,7 +1,8 @@
 ---
 title: Inicio
+seo: ''
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
+description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
 image: fondo.jpg
 translationKey: home
 
@@ -11,6 +12,8 @@ menu:
   size: ''
   show_sections: true
   show_modals: true
+callnow:
+  show: auto
 section:
 - underline: true
   uppercase: true
