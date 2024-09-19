@@ -30,7 +30,7 @@ boxes:
     #   boxes:
     #   - link: '#mama-mia'
     #   - subtitle: MAMA MIA
-  - description: |
+  - content: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   - image: fondo.jpg
     inset: true
@@ -38,11 +38,11 @@ boxes:
 - title: Ola k ase
   subtitle: Agámoslo!
   underline: true
-  description: |
+  content: |
     Lorem ipsum dolor sit amet, [consectetur](fondo.jpg "nofollow") adipiscing elit, sed do eiusmod tempor.
 - title: Ola k ase
   subtitle: Agámoslo!
-  description: |
+  content: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   link: '#ejemplo'
   button: hide
@@ -60,5 +60,5 @@ boxes:
   icon_type: top
   title: Ola k ase
   subtitle: Agámoslo!
-  description: |
+  content: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.

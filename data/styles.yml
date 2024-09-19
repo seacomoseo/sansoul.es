@@ -59,8 +59,8 @@ buttons:
   deep: true
   outline: false
   font_main:
-    type: base
-    bold: true
+    type: title
+    bold: false
     uppercase: true
   font_alt:
     type: base

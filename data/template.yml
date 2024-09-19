@@ -5,7 +5,7 @@ menu:
   logo_align: center
   transparent: true
   size: sm
-lists:
+list:
   columns: 3
   declive: true
   ratio: 16x9

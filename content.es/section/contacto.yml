@@ -43,4 +43,8 @@ boxes:
     name: Mensaje
     required: true
 - view: map
-  map: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
+  bg: mapa.png
+  link: '{{% map-url "Sea Como SEO, Ronda de Levante, 1, 30008 Murcia" %}}'
+  ofuscate: true
+  rate: 1x1
+  button: hide

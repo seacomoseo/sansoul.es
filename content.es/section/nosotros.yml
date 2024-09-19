@@ -12,7 +12,7 @@ boxes:
   align: left
   align_max: right
   align_y: center
-  description: |
+  content: |
     Lorem ipsum dolor sit amet.
     Consectetur adipiscing elit.
     Sed do eiusmod tempor incididunt.

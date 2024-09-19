@@ -220,16 +220,15 @@ No es necesario que lo veas, solo lo es si quieres hacer cosas por tu cuenta o s
 
 ### GA4
 
-- Vincular:
-  - `Herramientas y configuración`
-  - `Cuentas vinculadas`
+- Vincular
+  - `Herramientas`
+  - `Gestor de datos`
   - `Google Analytics (GA4) & Firebase ⏩ Detalles`
   - Buscar proyecto y ⏩ `Vincular`
-- Importar conversiones:
-  - `Herramientas y configuración`
-  - `Medición`
-  - `Conversiones`
-  - `Nueva acción de conversión`
+- Importar conversiones
+  - `Objetivos`
+  - `Resumen`
+  - `Crear acción de conversión`
   - `Importar`
   - `Propiedades de Google Analytics 4`
   - `Web`

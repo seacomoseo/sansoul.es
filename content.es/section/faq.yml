@@ -5,11 +5,11 @@ icon: circle-question
 size: md
 collapsibles:
 - title: ¿Una pregunta de ejemplo?
-  description: |
+  content: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - title: ¿Otra pregunta de ejemplo?
-  description: |
+  content: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - title: ¿Otra pregunta más de ejemplo?
-  description: |
+  content: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -11,7 +11,7 @@ boxes:
   hn: p
   hs: 0
   subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
-  description: |
+  content: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-    [btn icon-plus Más](#nosotros)
+    [btn icon:plus Más](#nosotros)
