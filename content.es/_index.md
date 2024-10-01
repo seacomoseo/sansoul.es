@@ -7,26 +7,6 @@ translationKey: home
 seo: ''
 description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
 
-menu:
-  logo: false
-  sticky: auto
-  size: ''
-  show_sections: true
-  show_modals: true
-callnow:
-  show: auto
-section:
-- underline: true
-  uppercase: true
-  alpha: .7
-  parallax: fix
-  divider: curve-side
-  flip_x: false
-  flip_y: false
-- color: white
-  flip_x: true
-  flip_y: true
-
 sections:
 - file: _header
 - file: nosotros
@@ -48,7 +28,7 @@ types:
 names:
 - Tema SanSoul de Hugo EJEMPLO
 - SanSoul
-description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
+summary: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
 legal: null
 nif: null
 email: null
