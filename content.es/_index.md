@@ -55,28 +55,24 @@ areas:
 - Región de Murcia
 - Internacional
 - Online
-open:
+schedule:
 - days:
   - monday
   - tuesday
   - wednesday
   - thursday
   - friday
-  opens: 9:00
-  closes: 14:00
-- days:
-  - monday
-  - tuesday
-  - wednesday
-  - thursday
-  - friday
-  opens: 17:00
-  closes: 20:00
+  hours:
+  - open: 9:00
+    close: 14:00
+  - open: 17:00
+    close: 20:00
 - days:
   - saturday
   # - sunday
-  opens: 9:00
-  closes: 13:00
+  hours:
+  - open: 9:00
+    close: 13:00
 prices: €€
 services:
 - title: Diseño Web
