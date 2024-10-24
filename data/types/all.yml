@@ -1,6 +1,6 @@
 title: Todas
-
 template:
+  toc: true
   background:
     color: light
   menu:
@@ -29,9 +29,17 @@ template:
   - file: base/related
   list:
     columns: 3
+    color: white
+    icon: hide
     declive: true
     ratio: 16x9
     inset: true
     align: left
-    color: white
     button: hide
+    tags:
+    - type: date
+    - type: param
+      param: place
+      icon: location-dot
+  related:
+    slider: true
