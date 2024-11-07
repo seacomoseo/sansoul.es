@@ -13,7 +13,7 @@ box:
   icon_type: bottom
   # direction: bottom
   border: link
-  ratio: 2x1
+  ratio: 2/1
   inset: true
   color: white
   # pill: true
@@ -48,11 +48,13 @@ boxes:
   button: hide
   ofuscate: true
   span_min: 2
-  data: column
-  data_custom:
-  - icon: star
+  tag: column
+  tags:
+  - type: custom
+    icon: star
     label: Ejemplaco
-  - icon: list
+  - type: custom
+    icon: list
     label: Yeah
   parallax: box
 - icon: star
