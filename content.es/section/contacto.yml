@@ -42,5 +42,7 @@ boxes:
   - type: textarea
     name: Mensaje
     required: true
-- map: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+- map:
+  - type: point
+    geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   rate: 1/1
