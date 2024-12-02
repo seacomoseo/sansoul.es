@@ -227,8 +227,9 @@ No es necesario que lo veas, solo lo es si quieres hacer cosas por tu cuenta o s
   - Buscar proyecto y ⏩ `Vincular`
 - Importar conversiones
   - `Objetivos`
+  - `Conversiones`
   - `Resumen`
-  - `Crear acción de conversión`
+  - `Nueva acción de conversión`
   - `Importar`
   - `Propiedades de Google Analytics 4`
   - `Web`
