@@ -1,7 +1,7 @@
 ---
 slug: inicio
 title: Inicio
-image: fondo.jpg
+image: base/poster.png
 translationKey: home
 
 seo: ''
@@ -32,9 +32,9 @@ summary: SanSoul es el alma del tema Hugo de lorensansol con el que generar siti
 legal: null
 nif: null
 email: null
-logo: base/logo.svg
+logo: base/poster.svg
 images:
-- fondo.jpg
+- base/poster.png
 social:
 - https://www.facebook.com/QuantumFracture
 - https://www.instagram.com/quantumfracture/

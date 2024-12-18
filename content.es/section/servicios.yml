@@ -8,7 +8,7 @@ box:
   uppercase: true
   underline: true
   # icon: frog
-  # image: fondo.jpg
+  # image: base/poster.png
   # link: '#ejemplo'
   icon_type: bottom
   # direction: bottom
@@ -32,14 +32,14 @@ boxes:
     #   - subtitle: MAMA MIA
   - content: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-  - image: fondo.jpg
+  - image: base/poster.png
     inset: true
     border: link
 - title: Ola k ase
   subtitle: Agámoslo!
   underline: true
   content: |
-    Lorem ipsum dolor sit amet, [consectetur](fondo.jpg "nofollow") adipiscing elit, sed do eiusmod tempor.
+    Lorem ipsum dolor sit amet, [consectetur](base/poster.png "nofollow") adipiscing elit, sed do eiusmod tempor.
 - title: Ola k ase
   subtitle: Agámoslo!
   content: |
