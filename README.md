@@ -29,17 +29,16 @@
       - `logo.png`
       - `icon.png`
       - `favicon.ico` ⏩ [Favicon converter tool](https://favicon.io/favicon-converter/)
-    - Gitlab, Github, Netlify and Cloudflare Pages update icon (project and account)
+    - Netlify and Cloudflare Pages update icon (project and account)
   - FONTS
     - Fonts that not be in Google Fonts:
       - .otf/.ttf files in `assets/fonts` + rename
       - You need the `sansoul_tools` project in `../_tools` folder
       - Run `do fonts` comand
-      - `Family` + `Style` + `Weight` must match in `config.yml ⏩ params.fonts` + `_fonts.scss` (and disable `params.fonts.google` if appropriate)
+      - `Family` + `Style` + `Weight` must match in `styles.yml ⏩ fonts` + `_fonts.scss` (and disable `fonts.google` if appropriate)
   - CONTENT
     - `content/*`
-      - `blog/divisores.md` ⏩ remove
-      - `admin` ⏩ `draft: true` and/or change params and content
+      - `page/divisores.md` ⏩ remove
       - SCRAP
         - Copy [this Spreadsheet Layout](https://docs.google.com/spreadsheets/d/1bJQaAFoBAwHhWz_WFRIHlkHoDmZZyT8H8NtdCnSTdaU)
         - First scrap with Screaming Frog and paste `url` and `title`
@@ -57,24 +56,12 @@
           - Paste in sheet
         - Export to CSV like `./Downloads/file.csv` and run `_tools/csv-to-md.command`
         - Move files from `markdown_files` to `blog` project
-  - HTML
-    - `layouts/*`
-    - `data/config.yml ⏩ custom_code.html_head.code`
-    - `data/config.yml ⏩ custom_code.html_body.code`
-  - CSS
-    - `assets/css/*`
-    - `assets/css/` ⏩ `_variables-custom.scss` + `_custom.scss`
-    - `data/config.yml ⏩ custom_code.css.code`
-  - JS
-    - `assets/js/*`
-    - `layouts/partials/sections/common/scripts.html`
-    - `data/config.yml ⏩ custom_code.js.code`
-  - IMG
-    - `assets/media/*`
-  - REDIRECTS
-    - `assets/redirects.md`
-  - ROBOTS
-    - `assets/robots.md`
+  - HTML: `data/config.yml ⏩ langs[*].html.{head,body}`
+  - CSS: `assets/css/` ⏩ `{*,_variables-custom.scss,_custom.scss}`
+  - JS: `assets/js/*,custom.js`
+  - IMG: `assets/media/*`
+  - REDIRECTS: `assets/redirects.md`
+  - ROBOTS: `assets/robots.md`
   - If Multilanguaje and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`
   - Try in Safari and Firefox
   - Check in [W3 Validator](https://validator.w3.org/)
@@ -108,6 +95,13 @@
   - `Set up a custom domains`
   - `var_proj`
   - `Continue`
+  - Add `DNS Records` copied from Cloudflare Pages to Domain gestor:
+    - From: `var_proj`
+      DNS Record: `CNAME`
+      To: `var_user.pages.dev`
+    - From: `www`
+      DNS Record: `CNAME`
+      To: `var_user.pages.dev`
   - `Activate domain` (if `Begin DNS transfer` end)
   - Repeat with `www.var_proj`
   - ...........................................................
@@ -115,6 +109,8 @@
 
 #### Forms
 
+- If SanSoulSend Form
+  - Add domain and emails in [GSS](https://docs.google.com/spreadsheets/d/1yQEoxReqnvQbQ5LkGnhUvu2_Aa-PhGfFztoRG1qY6iM/edit?gid=0#gid=0)
 - If Netlify Form
   - Don't need configure nothing! Build like you want in local or with CMS
   - [`Netlify ⏩ Site ⏩ Forms ⏩ Form Notifications`](https://app.netlify.com/sites/var_user/settings/forms#form-notifications) ⏩ `Add notification ⏩ Email notification ⏩ Email to Notify`
@@ -122,8 +118,6 @@
     - `Custom email subject line` = `Formulario de contacto de var_proj`
     - `Save`
   - Submissions: [`Netlify site ⏩ Forms`](https://app.netlify.com/sites/var_user/forms)
-- If Cloudflare Workers
-  - ...........................................................
 - [formsubmit.co](https://formsubmit.co/)
 - If Google Form: [Tutorial](https://seacomoseo.com/instrucciones/#google-forms)
 
@@ -137,7 +131,8 @@
     - `Recogida de datos de Google signals ⏩ Empezar`
     - `Consentimiento de recogida de datos de usuario` ⏩ Check
   - `Conservación de datos ⏩ Conservación de datos de eventos ⏩ 14 meses ⏩ Guardar`
-- `Conversiones ⏩ Nuevo evento de conversión ⏩ Nombre de evento nuevo` ⏩ add `contact_click` and `contact_form_submit`
+- `Eventos clave ⏩ Nuevo eventos clave ⏩ Nombre de evento nuevo` ⏩ add `contact`
+- `Definiciones personalizadas ⏩ Crear dimensión personalizada ⏩ Nombre de la dimensión + Parámetro de evento` ⏩ add `ID + id` + `Label + label` + `Type + type`
 
 
 #### [Google Search Console](https://search.google.com/search-console)

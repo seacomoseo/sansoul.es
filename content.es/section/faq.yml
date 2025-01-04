@@ -3,7 +3,7 @@ title: FAQ
 subtitle: Preguntas Frecuentes
 icon: circle-question
 size: md
-collapsibles:
+accordions:
 - title: ¿Una pregunta de ejemplo?
   content: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
