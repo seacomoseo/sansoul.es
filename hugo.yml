@@ -2,10 +2,10 @@ baseURL: https://sansoul.netlify.app
 buildFuture: true
 theme: [sansoul]
 params:
-  git_url: ''
-  name: ''
-  netlify_id: ''
+  git_url: https://github.com/seacomoseo/sansoul.es
+  name: sansoul
+  netlify_id: c68e19de-b566-40c3-96ac-0e5884121e3f
   netlify_hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  cloudflare_hook: 
-  drive_link: ''
-  drive_mails: ''
+  cloudflare_hook: MGEyMzdhN2MtZjBkNy00NGY5LWE2ZTktZDE2NDQzZTJiYWVk
+  drive_link: https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK
+  drive_mails: sansoul@seacomoseo.com

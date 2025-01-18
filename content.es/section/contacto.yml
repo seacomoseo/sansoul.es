@@ -30,17 +30,23 @@ boxes:
   - type: address
     label: Ronda de Levante, 1, 30008 Murcia
     anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
+  form:
+    email: sansoul@seacomoseo.com
   inputs:
   - type: text
     name: Nombre
+    icon: user
     required: true
   - type: tel
     name: Teléfono
+    icon: phone
   - type: email
     name: Email
+    icon: envelope
     required: true
   - type: textarea
     name: Mensaje
+    icon: message
     required: true
 - map:
   - type: point
