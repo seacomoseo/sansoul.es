@@ -80,5 +80,3 @@ shadow:
   blur: 0
   color: black
   alpha: 0.85
-performance:
-  show: true

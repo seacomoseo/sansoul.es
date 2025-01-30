@@ -4,3 +4,4 @@ compatibility_date = "2025-01-03"
 
 [vars]
 HUGO_VERSION = "0.135.0"
+NODE_VERSION = "23.5.0"
