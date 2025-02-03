@@ -1,4 +1,4 @@
-# AMA
+# var_domain
 
 [![var_domain](/assets/media/base/icon.png)](https://var_domain/)
 
