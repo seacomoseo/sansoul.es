@@ -4,7 +4,7 @@ subtitle: ¿En qué podemos ayudarte?
 icon: paper-plane
 menu_button: link
 box:
-  columns: 2
+  cols: 2
 boxes:
 - social:
   - link: https://www.facebook.com/QuantumFracture

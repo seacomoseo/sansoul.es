@@ -3,7 +3,7 @@ title: Nosotros
 subtitle: Lorem ipsum dolor sit amet
 icon: circle-info
 box:
-  columns: 2
+  cols: 2
 boxes:
 - order: 2
   bg: base/poster.png

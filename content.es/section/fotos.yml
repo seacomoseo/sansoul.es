@@ -3,7 +3,7 @@ title: Fotos
 subtitle: ¿Cómo son nuestras instalaciones?
 icon: aperture
 gallery:
-  columns: 5
+  cols: 5
   type: rows
   button: hide
 images:

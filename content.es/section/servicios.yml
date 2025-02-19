@@ -3,8 +3,8 @@ title: Servicios
 subtitle: ¿Qué procesos seguimos?
 icon: rocket-launch
 box:
-  columns: 0
-  columns_min: 2
+  cols: 0
+  cols_min: 2
   uppercase: true
   underline: true
   # icon: frog
@@ -48,7 +48,7 @@ boxes:
   button: hide
   ofuscate: true
   span_min: 2
-  tag: column
+  tag: col
   tags:
   - type: custom
     icon: star

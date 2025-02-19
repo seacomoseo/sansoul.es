@@ -6,5 +6,5 @@ list:
   type: /
   max: 12
 box:
-  columns: 4
+  cols: 4
   slider: true

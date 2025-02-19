@@ -3,7 +3,7 @@ title: Reseñas
 subtitle: ¿Qué dicen de nosotros?
 icon: comment
 review:
-  columns: 3
+  cols: 3
   color: white
   slider: true
   interval: 8
