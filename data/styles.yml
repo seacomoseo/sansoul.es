@@ -1,8 +1,7 @@
 icons:
   type: solid
   sharp: true
-  emojis: ''
-  emojis_default: false
+  emojis: false
   play: youtube-iframe
   up: ''
   down: ''
@@ -44,7 +43,7 @@ colors:
     light: ''
     dark: ''
     contrast: all
-  link:
+  cta:
     color: '#fe5f55'
     light: ''
     dark: ''
@@ -63,11 +62,11 @@ buttons:
   dot_circle: false
   deep: true
   outline: false
-  font_main:
+  font:
     type: title
     bold: false
     uppercase: true
-  font_alt:
+  swap:
     type: base
     bold: false
     uppercase: false

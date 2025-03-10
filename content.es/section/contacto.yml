@@ -2,7 +2,7 @@ name: Contacto
 title: Contacto
 subtitle: ¿En qué podemos ayudarte?
 icon: paper-plane
-menu_button: link
+menu_button: cta
 box:
   cols: 2
 boxes:
@@ -23,7 +23,7 @@ boxes:
     label: 111 222 333
   - type: whatsapp
     label: 111 222 333
-    button: link
+    button: cta
   - type: mail
     label: info@sansoul.es
     full: true
@@ -48,7 +48,7 @@ boxes:
     name: Mensaje
     icon: message
     required: true
-- map:
+- geos:
   - type: point
     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   rate: 1/1

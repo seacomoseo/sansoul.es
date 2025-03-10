@@ -10,9 +10,9 @@ boxes:
   parallax: box
 - order: 1
   align: left
-  align_max: right
+  align_vl: right
   align_y: center
-  content: |
+  md: |
     Lorem ipsum dolor sit amet.
     Consectetur adipiscing elit.
     Sed do eiusmod tempor incididunt.

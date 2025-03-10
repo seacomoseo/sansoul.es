@@ -8,20 +8,20 @@ steps:
 - title: Lorem ipsum
   subtitle: Dolor sit amet
   icon: star
-  content: |
+  md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - title: Lorem ipsum
   subtitle: Dolor sit amet
   icon: star
-  content: |
+  md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - title: Lorem ipsum
   subtitle: Dolor sit amet
   icon: star
-  content: |
+  md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - title: Lorem ipsum
   subtitle: Dolor sit amet
   icon: star
-  content: |
+  md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

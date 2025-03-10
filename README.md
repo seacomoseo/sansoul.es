@@ -13,8 +13,6 @@
   - `git submodule add https://github.com/seacomoseo/sansoul.git themes/sansoul`
 - Else if fork:
   - Download submódule theme files: `git submodule update --init --recursive`
-- If you want use svg emojies:
-  - `git submodule add https://github.com/seacomoseo/sansoul-emojies.git layouts/partials/svg/emojis`
 - Now you can see the run project in the browser with the `do server` comand
 - `README.md` ⏩ edit baseURL ("var_domain") + delete steps bit by bit
 - Design

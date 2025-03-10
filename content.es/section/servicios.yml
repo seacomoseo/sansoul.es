@@ -4,7 +4,7 @@ subtitle: ¿Qué procesos seguimos?
 icon: rocket-launch
 box:
   cols: 0
-  cols_min: 2
+  cols_vs: 2
   uppercase: true
   underline: true
   # icon: frog
@@ -12,7 +12,7 @@ box:
   # link: '#ejemplo'
   icon_type: bottom
   # direction: bottom
-  border: link
+  border: cta
   ratio: 2/1
   inset: true
   color: white
@@ -30,24 +30,24 @@ boxes:
     #   boxes:
     #   - link: '#mama-mia'
     #   - subtitle: MAMA MIA
-  - content: |
+  - md: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   - image: base/poster.png
     inset: true
-    border: link
+    border: cta
 - title: Ola k ase
   subtitle: Agámoslo!
   underline: true
-  content: |
-    Lorem ipsum dolor sit amet, [consectetur](base/poster.png "nofollow") adipiscing elit, sed do eiusmod tempor.
+  md: |
+    Lorem ipsum dolor sit amet, [consectetur](base/poster.png "[nofollow]") adipiscing elit, sed do eiusmod tempor.
 - title: Ola k ase
   subtitle: Agámoslo!
-  content: |
+  md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   link: '#ejemplo'
   button: hide
   ofuscate: true
-  span_min: 2
+  fit_vs: 2
   tag: col
   tags:
   - type: custom
@@ -62,5 +62,5 @@ boxes:
   icon_type: top
   title: Ola k ase
   subtitle: Agámoslo!
-  content: |
+  md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
