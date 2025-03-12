@@ -4,7 +4,7 @@
 
 
 ## STEPS
-amos, ¿no? ¡vale!
+amos, ¿no? ¡vale!... ¿no?
 
 ### Local
 
