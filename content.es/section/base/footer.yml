@@ -1,5 +1,5 @@
 name: Pie
-divider: curve-side
+div: curve-side
 md: |
   - :copyright:      {{< internal-link index >}}
   - :scale-balanced: {{< internal-link legal >}}
