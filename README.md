@@ -4,7 +4,7 @@
 
 
 ## STEPS
-amos, ¿no? ¡vale! ¡que sí! Y dale, que siiiii...
+amos, ¿no? ¡vale! ¡que sí!... No se yo...
 
 ### Local
 
