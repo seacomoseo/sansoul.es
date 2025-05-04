@@ -9,7 +9,7 @@
 ### Local
 
 - If new project (not fork):
-  - Copy [var_domain project files](https://github.com/var_name/var_domain)
+  - Copy [var_domain project files](https://github.com/seacomoseo/var_domain)
   - `git submodule add https://github.com/seacomoseo/sansoul.git themes/sansoul`
 - Else if fork:
   - Download submódule theme files: `git submodule update --init --recursive`

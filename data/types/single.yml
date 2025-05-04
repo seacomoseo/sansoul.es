@@ -1,7 +1,7 @@
 title: Únicas
 order: 0
 base: single
-template:
+tpl:
   menu:
     logo: false
     sticky: auto
@@ -11,7 +11,8 @@ template:
   callnow:
     show: auto
   section:
-  - underline: true
+  - size: lg
+    underline: true
     uppercase: true
     alpha: .7
     parallax: fix
