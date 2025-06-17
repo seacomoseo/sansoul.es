@@ -8,14 +8,15 @@ icons:
   left: ''
   right: ''
 fonts:
-  google: true
   base:
+    google: true
     family: Montserrat
     weight: 400
     bold: 0
     italic: false
     line_height: 1.25
   cursive:
+    google: true
     family: Dancing Script
     weight: 400
     bold: 0
@@ -24,6 +25,7 @@ fonts:
     size: 1
     top: 0
   title:
+    google: true
     family: Montserrat
     weight: 800
     bold: 0
@@ -37,17 +39,26 @@ colors:
     color: '#bdd5ea'
     light: ''
     dark: ''
-    contrast: text
+    contrast:
+      fill: false
+      in: true
+      text: true
   alt:
     color: ''
     light: ''
     dark: ''
-    contrast: all
+    contrast:
+      fill: true
+      in: true
+      text: true
   cta:
     color: '#fe5f55'
     light: ''
     dark: ''
-    contrast: text
+    contrast:
+      fill: false
+      in: true
+      text: true
   base:
     white: '#fff'
     light: '#eee'
