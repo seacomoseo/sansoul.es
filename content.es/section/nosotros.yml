@@ -6,7 +6,7 @@ box:
   cols: 2
 boxes:
 - order: 2
-  bg: base/poster.png
+  bi: base/poster.png
   parallax: box
 - order: 1
   align: left

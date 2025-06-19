@@ -6,7 +6,7 @@ menu_button: cta
 box:
   cols: 2
 boxes:
-- social:
+- dots:
   - link: https://www.facebook.com/QuantumFracture
   - link: https://www.instagram.com/quantumfracture/
   - link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw

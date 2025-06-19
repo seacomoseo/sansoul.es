@@ -12,8 +12,8 @@ tpl:
     show: auto
   section:
   - size: lg
-    underline: true
-    uppercase: true
+    line: true
+    caps: true
     alpha: .7
     parallax: fix
     div: curve-side

@@ -76,11 +76,11 @@ buttons:
   font:
     type: title
     bold: false
-    uppercase: true
+    caps: true
   swap:
     type: base
     bold: false
-    uppercase: false
+    caps: false
 inputs:
   fill: false
   labels_out: false

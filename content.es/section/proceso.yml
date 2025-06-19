@@ -3,7 +3,7 @@ title: Proceso
 subtitle: ¿Qué pasos seguimos?
 icon: shoe-prints
 step:
-  underline: true
+  line: true
 steps:
 - title: Lorem ipsum
   subtitle: Dolor sit amet

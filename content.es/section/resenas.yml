@@ -6,7 +6,7 @@ review:
   cols: 3
   color: white
   slider: true
-  interval: 8
+  time: 8
 reviews:
 - title: Lorem I.
   subtitle: Beatae Vitae

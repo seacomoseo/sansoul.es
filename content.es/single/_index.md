@@ -37,7 +37,7 @@ organization:
   logo: base/poster.svg
   images:
   - base/poster.png
-  social:
+  as:
   - https://www.facebook.com/QuantumFracture
   - https://www.instagram.com/quantumfracture/
   - https://g.page/r/CQI3T3wmeAB6EBM

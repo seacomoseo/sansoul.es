@@ -5,13 +5,13 @@ icon: rocket-launch
 box:
   cols: 0
   cols_vs: 2
-  uppercase: true
-  underline: true
+  caps: true
+  line: true
   # icon: frog
   # image: base/poster.png
   # link: '#ejemplo'
   icon_type: bottom
-  # direction: bottom
+  # to: bottom
   border: cta
   ratio: 2/1
   inset: true
@@ -37,7 +37,7 @@ boxes:
     border: cta
 - title: Ola k ase
   subtitle: Agámoslo!
-  underline: true
+  line: true
   md: |
     Lorem ipsum dolor sit amet, [consectetur](base/poster.png "[nofollow]") adipiscing elit, sed do eiusmod tempor.
 - title: Ola k ase
@@ -46,7 +46,7 @@ boxes:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   link: '#ejemplo'
   button: hide
-  ofuscate: true
+  lock: true
   fit_vs: 2
   tag: col
   tags:
