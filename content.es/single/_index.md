@@ -22,8 +22,8 @@ tpl:
   - file: contacto
   - file: mapa
 
-base: organization
-organization:
+base: org
+org:
   types:
   - LocalBusiness
   - Organization
