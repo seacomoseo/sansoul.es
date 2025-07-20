@@ -4,14 +4,12 @@ subtitle: Lorem ipsum dolor sit amet
 icon: circle-info
 box:
   cols: 2
-boxes:
-- order: 2
-  bi: base/poster.png
-  parallax: box
-- order: 1
+  duo: 2
   align: left
-  align_vl: right
-  align_y: center
+boxes:
+- bi: base/poster.png
+  parallax: box
+- align_y: center
   md: |
     Lorem ipsum dolor sit amet.
     Consectetur adipiscing elit.
