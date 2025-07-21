@@ -12,8 +12,6 @@ tpl:
   - file: _header
   - file: nosotros
   - file: servicios
-    modals:
-    - file: ejemplo
   - file: proceso
   - file: fotos
   - file: noticias
@@ -79,13 +77,14 @@ org:
   services:
   - title: Diseño Web
     description: null
-    price: 800.00
+    price: 800
     area: Internacional
   - title: SEO
     description: null
-    price: 250.00
+    price: 250
     area: Internacional
   - title: SEM
     description: Descripción de ejemplo
     area: Internacional
 ---
+
