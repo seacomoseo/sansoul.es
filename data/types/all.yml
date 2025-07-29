@@ -7,11 +7,6 @@ tpl:
     logo_align: center
     transparent: true
     size: sm
-    es:
-      image: base/logo.svg
-      title: SanSoul
-      subtitle: Hugo Theme
-  callnow: {}
   section:
   - size: sm
   sections:

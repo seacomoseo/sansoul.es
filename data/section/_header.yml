@@ -5,8 +5,8 @@ bi: base/poster.png
 full: true
 boxes:
 - image: base/logo.svg
-  fit: .125
-  fit_vs: .5
+  fit: 0.125
+  fit_vs: 0.5
 - title: SanSoul Hugo Theme
   hn: p
   hs: 0

@@ -1,20 +1,18 @@
 title: Únicas
-order: 0
+weight: 0
 base: single
 tpl:
   menu:
     logo: false
     sticky: auto
     size: ''
-    show_sections: true
-    show_modals: true
-  callnow:
-    show: auto
+    auto: same-modals
+  callnow: auto
   section:
   - size: lg
     line: true
     caps: true
-    alpha: .7
+    alpha: 0.7
     parallax: fix
     div: curve-side
     div_x: false

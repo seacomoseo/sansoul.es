@@ -7,16 +7,11 @@ box:
   cols_vs: 2
   caps: true
   line: true
-  # icon: frog
-  # image: base/poster.png
-  # link: '#ejemplo'
   icon_type: bottom
-  # to: bottom
   border: cta
   ratio: 2/1
   inset: true
   color: white
-  # pill: true
   slider: true
 boxes:
 - boxes:
@@ -24,12 +19,6 @@ boxes:
   - subtitle: Más Agámoslo!
   - icon: frog
   - title: Ola k ase
-    # boxes:
-    # - link: '#mama-mia'
-    # - subtitle: MAMA MIA
-    #   boxes:
-    #   - link: '#mama-mia'
-    #   - subtitle: MAMA MIA
   - md: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   - image: base/poster.png
@@ -64,8 +53,6 @@ boxes:
   subtitle: Agámoslo!
   md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-modal:
-  color: white
 modals:
 - title: Ejemplo
   subtitle: ¿Qué quieres saber?
