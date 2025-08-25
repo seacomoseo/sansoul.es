@@ -5,7 +5,7 @@ tpl:
   menu:
     logo: false
     sticky: auto
-    size: ''
+    size: lg
     auto: same-modals
   callnow: auto
   section:
