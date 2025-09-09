@@ -1,7 +1,7 @@
 name: FAQ
 title: FAQ
 subtitle: Preguntas Frecuentes
-icon: circle-question
+icon: help_outline
 size: md
 accordions:
 - title: ¿Una pregunta de ejemplo?

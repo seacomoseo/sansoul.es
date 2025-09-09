@@ -14,4 +14,4 @@ boxes:
   md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-    [[:plus: Más]](#nosotros)
+    [[::add:: Más]](#nosotros)

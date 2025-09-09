@@ -1,7 +1,7 @@
 name: Proceso
 title: Proceso
 subtitle: ¿Qué pasos seguimos?
-icon: shoe-prints
+icon: footprint
 step:
   line: true
 steps:

@@ -1,7 +1,7 @@
 name: Fotos
 title: Fotos
 subtitle: ¿Cómo son nuestras instalaciones?
-icon: aperture
+icon: camera
 gallery:
   cols: 5
   type: rows

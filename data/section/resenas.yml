@@ -1,7 +1,7 @@
 name: Reseñas
 title: Reseñas
 subtitle: ¿Qué dicen de nosotros?
-icon: comment
+icon: reviews
 review:
   cols: 3
   color: white
@@ -42,5 +42,5 @@ boxes:
     ¡Hay más aquí! ¡Añade la tuya!
     {.subtitle}
 
-    [[:star: Google]](https://g.page/r/CQI3T3wmeAB6EBM/review "[nofollow]")
-    [[:star: Facebook]](https://www.facebook.com/QuantumFracture/reviews/ "[nofollow]")
+    [[::star:: Google]](https://g.page/r/CQI3T3wmeAB6EBM/review "[nofollow]")
+    [[::star:: Facebook]](https://www.facebook.com/QuantumFracture/reviews/ "[nofollow]")

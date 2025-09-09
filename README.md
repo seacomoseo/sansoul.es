@@ -150,7 +150,7 @@
 
 #### [Google My Business](https://business.google.com/)
 
-- `Add company ⏩ ...` ⏩ whait 13 days to receive postal and insert code to verify
+- `Add company ⏩ ...` ⏩ wait 13 days to receive postal and insert code to verify
 
 
 #### [Disqus](https://disqus.com/)

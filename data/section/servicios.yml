@@ -1,7 +1,7 @@
 name: Servicios
 title: Servicios
 subtitle: ¿Qué procesos seguimos?
-icon: rocket-launch
+icon: rocket_launch
 box:
   cols: 0
   cols_vs: 2
@@ -9,21 +9,22 @@ box:
   line: true
   icon_type: bottom
   border: cta
-  ratio: 2/1
   inset: true
   color: white
   slider: true
 boxes:
 - boxes:
   - link: '#ejemplo'
+    pin: brand:facebook-f
   - subtitle: Más Agámoslo!
-  - icon: frog
+  - icon: pets
   - title: Ola k ase
   - md: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   - image: base/poster.png
     inset: true
     border: cta
+    ratio: 2/1
 - title: Ola k ase
   subtitle: Agámoslo!
   line: true
@@ -57,6 +58,6 @@ modals:
 - title: Ejemplo
   subtitle: ¿Qué quieres saber?
   image: base/poster.png
-  icon: circle-info
+  icon: info
   md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

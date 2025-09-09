@@ -1,7 +1,7 @@
 name: Noticias
 title: Noticias
 subtitle: Novedades
-icon: rss
+icon: feed
 list:
   type: all
   max: 12

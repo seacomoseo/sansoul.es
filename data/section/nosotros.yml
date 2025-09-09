@@ -1,7 +1,7 @@
 name: Nosotros
 title: Nosotros
 subtitle: Lorem ipsum dolor sit amet
-icon: circle-info
+icon: info
 box:
   cols: 2
   duo: 2

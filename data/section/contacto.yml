@@ -1,7 +1,7 @@
 name: Contacto
 title: Contacto
 subtitle: ¿En qué podemos ayudarte?
-icon: paper-plane
+icon: send
 menu_button: cta
 box:
   cols: 2
@@ -35,18 +35,18 @@ boxes:
   inputs:
   - type: text
     name: Nombre
-    icon: user
+    icon: person
     required: true
   - type: tel
     name: Teléfono
     icon: phone
   - type: email
     name: Email
-    icon: envelope
+    icon: mail
     required: true
   - type: textarea
     name: Mensaje
-    icon: message
+    icon: chat_bubble
     required: true
 - geos:
   - type: point
