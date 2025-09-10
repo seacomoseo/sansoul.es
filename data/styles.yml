@@ -5,11 +5,6 @@ icons:
   optical: 24 # [ 20, 24, 40, 48 ]
   style: sharp # [ outlined, rounded, sharp ]
   play: youtube-iframe
-  up: ''
-  down: ''
-  left: ''
-  right: ''
-
 fonts:
   base:
     google: true
