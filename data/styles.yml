@@ -1,6 +1,6 @@
 icons:
-  fill: false # boolean
-  weight: 100 # [ 100, 200, 300, 400, 500, 600, 700 ]
+  fill: true # boolean
+  weight: 700 # [ 100, 200, 300, 400, 500, 600, 700 ]
   grade: 0 # [ -25, 0, 200 ] / [ low, med, high ]
   optical: 24 # [ 20, 24, 40, 48 ]
   style: sharp # [ outlined, rounded, sharp ]

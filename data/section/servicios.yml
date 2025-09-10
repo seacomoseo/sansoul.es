@@ -15,7 +15,7 @@ box:
 boxes:
 - boxes:
   - link: '#ejemplo'
-    pin: brand:facebook-f
+    pin: svg:base/logo
   - subtitle: Más Agámoslo!
   - icon: pets
   - title: Ola k ase
