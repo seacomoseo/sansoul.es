@@ -7,14 +7,12 @@ icons:
   play: youtube-iframe
 fonts:
   base:
-    google: true
     family: Montserrat
     weight: 400
     bold: 0
     italic: false
     line_height: 1.25
   cursive:
-    google: true
     family: Dancing Script
     weight: 400
     bold: 0
@@ -23,7 +21,6 @@ fonts:
     size: 1
     top: 0
   title:
-    google: true
     family: Montserrat
     weight: 800
     bold: 0
