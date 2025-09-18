@@ -4,7 +4,7 @@ icons:
   grade: 0 # [ -25, 0, 200 ] / [ low, med, high ]
   optical: 24 # [ 20, 24, 40, 48 ]
   style: sharp # [ outlined, rounded, sharp ]
-  play: youtube-iframe
+  play: svg:youtube-iframe
 fonts:
   base:
     family: Montserrat
