@@ -1,22 +1,22 @@
 icons:
-  fill: true # boolean
-  weight: 700 # [ 100, 200, 300, 400, 500, 600, 700 ]
-  grade: 0 # [ -25, 0, 200 ] / [ low, med, high ]
-  optical: 24 # [ 20, 24, 40, 48 ]
-  style: sharp # [ outlined, rounded, sharp ]
+  fill: y
+  weight: 700
+  grade: 0
+  optical: 24
+  style: sharp
   play: svg:youtube-iframe
 fonts:
   base:
     family: Montserrat
     weight: 400
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
   cursive:
     family: Dancing Script
     weight: 400
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
     size: 1
     top: 0
@@ -24,61 +24,61 @@ fonts:
     family: Montserrat
     weight: 800
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
     size: 1
     top: 0
-  blockquote_cursive: true
+  blockquote_cursive: y
 colors:
   main:
     color: '#bdd5ea'
-    light: ''
-    dark: ''
+    light: '#ffffff'
+    dark: '#ffffff'
     contrast:
-      fill: false
-      in: true
-      text: true
+      fill: n
+      in: y
+      text: y
   alt:
-    color: ''
-    light: ''
-    dark: ''
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
     contrast:
-      fill: true
-      in: true
-      text: true
+      fill: y
+      in: y
+      text: y
   cta:
     color: '#fe5f55'
-    light: ''
-    dark: ''
+    light: '#ffffff'
+    dark: '#ffffff'
     contrast:
-      fill: false
-      in: true
-      text: true
+      fill: n
+      in: y
+      text: y
   base:
-    white: '#fff'
-    light: '#eee'
+    white: '#ffffff'
+    light: '#eeeeee'
     gray: '#767676'
     dark: '#282525'
-    black: '#000'
+    black: '#000000'
 rounded:
   radius: 0.33
-  chamfer: true
+  chamfer: y
 buttons:
-  sides_round: false
-  dot_circle: false
-  deep: true
-  outline: false
+  sides_round: n
+  dot_circle: n
+  deep: y
+  outline: n
   font:
     type: title
-    bold: false
-    caps: true
+    bold: n
+    caps: y
   swap:
     type: base
-    bold: false
-    caps: false
+    bold: n
+    caps: n
 inputs:
-  fill: false
-  labels_out: false
+  fill: n
+  labels_out: n
 shadow:
   left: 0.15
   top: 0.15

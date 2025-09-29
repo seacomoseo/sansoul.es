@@ -18,7 +18,7 @@ boxes:
   - type: schedule
     days: Lunes a Viernes
     hours: 9:00 - 12:30 y 14:30 - 20:00
-    full: true
+    full: y
   - type: phone
     label: 111 222 333
   - type: whatsapp
@@ -26,7 +26,7 @@ boxes:
     button: cta
   - type: mail
     label: info@sansoul.es
-    full: true
+    full: y
   - type: address
     label: Ronda de Levante, 1, 30008 Murcia
     anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
@@ -36,18 +36,18 @@ boxes:
   - type: text
     name: Nombre
     icon: person
-    required: true
+    required: y
   - type: tel
     name: Teléfono
     icon: phone
   - type: email
     name: Email
     icon: mail
-    required: true
+    required: y
   - type: textarea
     name: Mensaje
     icon: chat_bubble
-    required: true
+    required: y
 - geos:
   - type: point
     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'

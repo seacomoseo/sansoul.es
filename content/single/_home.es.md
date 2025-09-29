@@ -54,20 +54,20 @@ org:
   - Online
   schedule:
   - days:
-      mon: true
-      tue: true
-      wed: true
-      thu: true
-      fri: true
-      sat: false
-      sun: false
+      mon: y
+      tue: y
+      wed: y
+      thu: y
+      fri: y
+      sat: n
+      sun: n
     hours:
     - open: 9:00
       close: 14:00
     - open: 17:00
       close: 20:00
   - days:
-      sat: true
+      sat: y
     hours:
     - open: 9:00
       close: 13:00

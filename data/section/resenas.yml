@@ -5,7 +5,7 @@ icon: reviews
 review:
   cols: 3
   color: white
-  slider: true
+  slider: y
   time: 8
 reviews:
 - title: Lorem I.

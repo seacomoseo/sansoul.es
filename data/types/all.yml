@@ -3,9 +3,9 @@ tpl:
   bg:
     color: light
   menu:
-    logo: true
+    logo: y
     logo_align: center
-    transparent: true
+    transparent: y
     size: sm
   section:
   - size: sm
@@ -24,13 +24,13 @@ tpl:
     cols: 3
     color: white
     icon: hide
-    shade: true
+    shade: y
     ratio: 16/9
-    inset: true
+    inset: y
     align: left
     button: hide
     tags:
     - type: date
     - type: address
   related:
-    slider: true
+    slider: y

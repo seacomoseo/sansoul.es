@@ -1,7 +1,7 @@
 name: Mapa
 hanchor: Mapa
 menu_button: hide
-ph: true
+ph: y
 size: fluid
 geos:
 - type: point

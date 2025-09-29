@@ -3,7 +3,7 @@ title: Proceso
 subtitle: ¿Qué pasos seguimos?
 icon: footprint
 step:
-  line: true
+  line: y
 steps:
 - title: Lorem ipsum
   subtitle: Dolor sit amet

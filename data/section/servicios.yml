@@ -5,13 +5,13 @@ icon: rocket_launch
 box:
   cols: 0
   cols_vs: 2
-  caps: true
-  line: true
+  caps: y
+  line: y
   icon_type: bottom
   border: cta
-  inset: true
+  inset: y
   color: white
-  slider: true
+  slider: y
 boxes:
 - boxes:
   - link: '#ejemplo'
@@ -22,12 +22,12 @@ boxes:
   - md: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   - image: base/poster.png
-    inset: true
+    inset: y
     border: cta
     ratio: 2/1
 - title: Ola k ase
   subtitle: Agámoslo!
-  line: true
+  line: y
   md: |
     Lorem ipsum dolor sit amet, [consectetur](base/poster.png "[nofollow]") adipiscing elit, sed do eiusmod tempor.
 - title: Ola k ase
@@ -36,7 +36,7 @@ boxes:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
   link: '#ejemplo'
   button: hide
-  lock: true
+  lock: y
   fit_vs: 2
   tag: col
   tags:

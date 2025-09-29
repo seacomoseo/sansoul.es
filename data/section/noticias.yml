@@ -7,4 +7,4 @@ list:
   max: 12
 box:
   cols: 4
-  slider: true
+  slider: y

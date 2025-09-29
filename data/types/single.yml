@@ -3,20 +3,20 @@ weight: 0
 base: single
 tpl:
   menu:
-    logo: false
+    logo: n
     sticky: auto
     size: lg
     auto: same-modals
   callnow: auto
   section:
   - size: lg
-    line: true
-    caps: true
+    line: y
+    caps: y
     alpha: 0.7
     parallax: fix
     div: curve-side
-    div_x: false
-    div_y: false
+    div_x: n
+    div_y: n
   - color: white
-    div_x: true
-    div_y: true
+    div_x: y
+    div_y: y

@@ -2,7 +2,7 @@ name: Cabecera
 hanchor: SanSoul Hugo Theme
 color: main-dark
 bi: base/poster.png
-full: true
+full: y
 boxes:
 - image: base/logo.svg
   fit: 0.125

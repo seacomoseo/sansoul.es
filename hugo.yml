@@ -1,5 +1,5 @@
 baseURL: https://sansoul.pages.dev
-buildFuture: true
+buildFuture: y
 theme: [sansoul]
 params:
   domain: sansoul.es
