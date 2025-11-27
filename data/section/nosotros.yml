@@ -1,14 +1,15 @@
 name: Nosotros
+
 title: Nosotros
-subtitle: Lorem ipsum dolor sit amet
+sub: Lorem ipsum dolor sit amet
 icon: info
 box:
   cols: 2
   duo: 2
   align: left
 boxes:
-- bi: base/poster.png
-  parallax: box
+- bi: /u/base/poster.png
+  scroll: soft
 - align_y: center
   md: |
     Lorem ipsum dolor sit amet.

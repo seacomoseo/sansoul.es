@@ -1,7 +1,7 @@
 menu:
-  image: base/logo.svg
+  img: /u/base/logo.svg
   title: SanSoul
-  subtitle: Tema de Hugo
+  sub: Tema de Hugo
 footer:
   div: curve-side
   dots: []

@@ -1,10 +1,10 @@
 ---
 slug: inicio
 title: Inicio
-image: base/poster.png
-summary: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
+img: /u/base/poster.png
+sum: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
 seo: null
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
+desc: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
 tpl:
   sections:
   - file: _header
@@ -25,13 +25,13 @@ org:
   names:
   - Tema SanSoul de Hugo EJEMPLO
   - SanSoul
-  description: null
+  desc: null
   legal: null
   nif: null
-  email: null
-  logo: base/poster.svg
-  images:
-  - base/poster.png
+  mail: null
+  logo: /u/base/poster.svg
+  imgs:
+  - /u/base/poster.png
   as:
   - https://www.facebook.com/QuantumFracture
   - https://www.instagram.com/quantumfracture/
@@ -47,12 +47,12 @@ org:
     region: Murcia
     country: ES
     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-    link: https://g.page/r/CQI3T3wmeAB6EBM
+    url: https://g.page/r/CQI3T3wmeAB6EBM
   areas:
   - Región de Murcia
   - Internacional
   - Online
-  schedule:
+  when:
   - days:
       mon: y
       tue: y
@@ -74,15 +74,15 @@ org:
   prices: €€
   services:
   - title: Diseño Web
-    description: null
+    desc: null
     price: 800
     area: Internacional
   - title: SEO
-    description: null
+    desc: null
     price: 250
     area: Internacional
   - title: SEM
-    description: Descripción de ejemplo
+    desc: Descripción de ejemplo
     area: Internacional
 ---
 

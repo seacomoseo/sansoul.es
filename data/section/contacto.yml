@@ -1,29 +1,30 @@
 name: Contacto
+menu_btn: cta
+
 title: Contacto
-subtitle: ¿En qué podemos ayudarte?
+sub: ¿En qué podemos ayudarte?
 icon: send
-menu_button: cta
 box:
   cols: 2
 boxes:
 - dots:
-  - link: https://www.facebook.com/QuantumFracture
-  - link: https://www.instagram.com/quantumfracture/
-  - link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-  - link: https://twitter.com/QuantumFracture
-  - link: https://www.linkedin.com/company/quantum-fracture
-  - link: https://github.com/lorensansol
-  - link: https://mastersoflol.com/collections/quantumfracture?YTC
-  contact:
-  - type: schedule
-    days: Lunes a Viernes
+  - url: https://www.facebook.com/QuantumFracture
+  - url: https://www.instagram.com/quantumfracture/
+  - url: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
+  - url: https://twitter.com/QuantumFracture
+  - url: https://www.linkedin.com/company/quantum-fracture
+  - url: https://github.com/lorensansol
+  - url: https://mastersoflol.com/collections/quantumfracture?YTC
+  when:
+  - days: Lunes a Viernes
     hours: 9:00 - 12:30 y 14:30 - 20:00
     full: y
+  links:
   - type: phone
     label: 111 222 333
   - type: whatsapp
     label: 111 222 333
-    button: cta
+    btn: cta
   - type: mail
     label: info@sansoul.es
     full: y
@@ -31,23 +32,23 @@ boxes:
     label: Ronda de Levante, 1, 30008 Murcia
     anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
   form:
-    email: sansoul@seacomoseo.com
+    mail: sansoul@seacomoseo.com
   inputs:
   - type: text
     name: Nombre
     icon: person
-    required: y
-  - type: tel
+    req: y
+  - type: phone
     name: Teléfono
     icon: phone
-  - type: email
+  - type: mail
     name: Email
     icon: mail
-    required: y
-  - type: textarea
+    req: y
+  - type: area
     name: Mensaje
     icon: chat_bubble
-    required: y
+    req: y
 - geos:
   - type: point
     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'

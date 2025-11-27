@@ -1,9 +1,10 @@
 name: FAQ
-title: FAQ
-subtitle: Preguntas Frecuentes
-icon: help_outline
 size: md
-accordions:
+
+title: FAQ
+sub: Preguntas Frecuentes
+icon: help_outline
+faqs:
 - title: ¿Una pregunta de ejemplo?
   md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.

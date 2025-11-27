@@ -1,6 +1,7 @@
 name: Noticias
+
 title: Noticias
-subtitle: Novedades
+sub: Novedades
 icon: feed
 list:
   type: all

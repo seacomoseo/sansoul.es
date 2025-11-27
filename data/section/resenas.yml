@@ -1,6 +1,7 @@
 name: Reseñas
+
 title: Reseñas
-subtitle: ¿Qué dicen de nosotros?
+sub: ¿Qué dicen de nosotros?
 icon: reviews
 review:
   cols: 3
@@ -9,8 +10,8 @@ review:
   time: 8
 reviews:
 - title: Lorem I.
-  subtitle: Beatae Vitae
-  image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
+  sub: Beatae Vitae
+  img: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
   md: |
     Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
 
@@ -20,8 +21,8 @@ reviews:
 
     Explicabo.
 - title: Sequi N.
-  subtitle: Ratione Voluptatem
-  image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
+  sub: Ratione Voluptatem
+  img: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
   md: |
     Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
 
@@ -29,8 +30,8 @@ reviews:
 
     Sequi nesciunt.
 - title: Quaerat V.
-  subtitle: Magnam Aliquam
-  image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
+  sub: Magnam Aliquam
+  img: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
   md: |
     Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,.
 
@@ -40,7 +41,7 @@ reviews:
 boxes:
 - md: |
     ¡Hay más aquí! ¡Añade la tuya!
-    {.subtitle}
+    {.sub}
 
     [[::star:: Google]](https://g.page/r/CQI3T3wmeAB6EBM/review "[nofollow]")
     [[::star:: Facebook]](https://www.facebook.com/QuantumFracture/reviews/ "[nofollow]")
