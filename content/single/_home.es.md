@@ -3,8 +3,9 @@ slug: inicio
 title: Inicio
 img: /u/base/poster.png
 sum: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
-seo: null
-desc: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
+seo:
+  title: null
+  desc: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
 tpl:
   sections:
   - file: _header
@@ -85,5 +86,3 @@ org:
     desc: Descripción de ejemplo
     area: Internacional
 ---
-
-
