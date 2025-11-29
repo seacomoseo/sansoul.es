@@ -58,6 +58,7 @@
   - CSS: `assets/_custom.scss` ⏩ `{*,_variables-custom.scss,_custom.scss}`
   - JS: `assets/custom.js`
   - ROBOTS: `assets/robots.txt`
+  - LLMS: `assets/llms.txt`
   - MEDIA: `media/*`
   - REDIRECTS: `data/redirects.yml`
   - If Multilanguaje and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`
