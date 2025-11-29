@@ -1,33 +1,33 @@
 name: Nosotros
-
-title: Nosotros
-sub: Lorem ipsum dolor sit amet
-icon: info
-box:
-  cols: 2
-  duo: 2
-  align: left
 boxes:
-- bi: /u/base/poster.png
-  scroll: soft
-- align_y: center
-  md: |
-    Lorem ipsum dolor sit amet.
-    Consectetur adipiscing elit.
-    Sed do eiusmod tempor incididunt.
-    Ut labore et dolore magna aliqua.
+- title: Nosotros
+  sub: Lorem ipsum dolor sit amet
+  icon: info
+  box:
+    cols: 2
+    duo: 2
+    align: left
+  boxes:
+  - bi: /u/base/poster.png
+    scroll: soft
+  - align_y: center
+    md: |
+      Lorem ipsum dolor sit amet.
+      Consectetur adipiscing elit.
+      Sed do eiusmod tempor incididunt.
+      Ut labore et dolore magna aliqua.
 
-    Lorem ipsum dolor sit amet.
-    Consectetur adipiscing elit.
-    Sed do eiusmod tempor incididunt.
-    Ut labore et dolore magna aliqua.
+      Lorem ipsum dolor sit amet.
+      Consectetur adipiscing elit.
+      Sed do eiusmod tempor incididunt.
+      Ut labore et dolore magna aliqua.
 
-    Lorem ipsum dolor sit amet.
-    Consectetur adipiscing elit.
-    Sed do eiusmod tempor incididunt.
-    Ut labore et dolore magna aliqua.
+      Lorem ipsum dolor sit amet.
+      Consectetur adipiscing elit.
+      Sed do eiusmod tempor incididunt.
+      Ut labore et dolore magna aliqua.
 
-    Lorem ipsum dolor sit amet.
-    Consectetur adipiscing elit.
-    Sed do eiusmod tempor incididunt.
-    Ut labore et dolore magna aliqua.
+      Lorem ipsum dolor sit amet.
+      Consectetur adipiscing elit.
+      Sed do eiusmod tempor incididunt.
+      Ut labore et dolore magna aliqua.

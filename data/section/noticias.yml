@@ -1,11 +1,11 @@
 name: Noticias
-
-title: Noticias
-sub: Novedades
-icon: feed
-list:
-  type: all
-  max: 12
-box:
-  cols: 4
-  slider: y
+boxes:
+- title: Noticias
+  sub: Novedades
+  icon: feed
+  list:
+    type: all
+    max: 12
+  box:
+    cols: 4
+    slider: y

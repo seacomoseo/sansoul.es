@@ -10,13 +10,14 @@ tpl:
   callnow: auto
   section:
   - size: lg
-    line: y
-    caps: y
-    alpha: 0.7
+    alpha: .7
     scroll: fix
     div: curve-side
     div_x: n
     div_y: n
+    box:
+      line: y
+      caps: y
   - color: white
     div_x: y
     div_y: y
