@@ -2,6 +2,9 @@
 
 [![var_domain](/uploads/base/icon.svg)](https://var_domain/)
 
+This is a sample project to use as a basis, copying it to another repository. The main feature is that it uses a Hugo theme via git submodules. The technical details can be found in [`./themes/sansoul/AGENTS.md`](./themes/sansoul/AGENTS.md).
+
+Below I describe the typical steps to follow once the repository has been copied. These are the manual steps, although I usually use scripts that do almost everything via APIs.
 
 ## STEPS
 
