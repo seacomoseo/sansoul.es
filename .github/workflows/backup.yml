@@ -28,4 +28,4 @@ jobs:
           submodules: recursive
 
       - name: Mirror repository to GitLab
-        run: sh scripts/mirror-to-gitlab.sh
+        run: sh themes/sansoul/scripts/mirror-to-gitlab.sh
