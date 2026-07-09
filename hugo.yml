@@ -2,6 +2,7 @@ baseURL: https://sansoul.pages.dev
 buildFuture: y
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: sansoul.es
   name: sansoul
   netlify_id: c68e19de-b566-40c3-96ac-0e5884121e3f
