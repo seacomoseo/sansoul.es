@@ -55,20 +55,20 @@ org:
   - Online
   when:
   - days:
-      mon: y
-      tue: y
-      wed: y
-      thu: y
-      fri: y
-      sat: n
-      sun: n
+      mon: 1
+      tue: 1
+      wed: 1
+      thu: 1
+      fri: 1
+      sat: 0
+      sun: 0
     hours:
     - open: 9:00
       close: 14:00
     - open: 17:00
       close: 20:00
   - days:
-      sat: y
+      sat: 1
     hours:
     - open: 9:00
       close: 13:00

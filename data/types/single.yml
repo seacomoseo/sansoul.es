@@ -3,7 +3,7 @@ weight: 0
 base: single
 tpl:
   menu:
-    logo: n
+    logo: 0
     sticky: auto
     size: lg
     auto: same-modals
@@ -13,11 +13,11 @@ tpl:
     alpha: .7
     scroll: fix
     div: curve-side
-    div_x: n
-    div_y: n
+    div_x: 0
+    div_y: 0
     box:
-      line: y
-      caps: y
+      line: 1
+      caps: 1
   - color: white
-    div_x: y
-    div_y: y
+    div_x: 1
+    div_y: 1

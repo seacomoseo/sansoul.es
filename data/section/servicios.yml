@@ -6,13 +6,13 @@ boxes:
   box:
     cols: 0
     cols_vs: 2
-    caps: y
-    line: y
+    caps: 1
+    line: 1
     icon_pos: sub
     border: cta
-    inset: y
+    inset: 1
     color: white
-    slider: y
+    slider: 1
   boxes:
   - boxes:
     - url: '#ejemplo'
@@ -23,12 +23,12 @@ boxes:
     - md: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
     - img: /u/base/poster.png
-      inset: y
+      inset: 1
       border: cta
       ratio: 2/1
   - title: Ola k ase
     sub: Agámoslo!
-    line: y
+    line: 1
     md: |
       Lorem ipsum dolor sit amet, [consectetur](/u/base/poster.png "[nofollow]") adipiscing elit, sed do eiusmod tempor.
   - title: Ola k ase
@@ -37,7 +37,7 @@ boxes:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
     url: '#ejemplo'
     btn: hide
-    lock: y
+    lock: 1
     fit_vs: 2
     tag: col
     tags:

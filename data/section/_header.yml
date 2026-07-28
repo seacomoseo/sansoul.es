@@ -2,7 +2,7 @@ name: Cabecera
 color: main-dark
 bi: /u/base/poster.png
 scroll: soft
-full: y
+full: 1
 boxes:
 - img: /u/base/logo.svg
   fit: 0.125
@@ -10,7 +10,7 @@ boxes:
 - hanchor: SanSoul Hugo Theme HANCHOR
   title: SanSoul Hugo Theme
   hs: 0.2
-  caps: n
+  caps: 0
   sub: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
   md: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

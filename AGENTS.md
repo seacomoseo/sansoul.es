@@ -83,6 +83,9 @@ Use `themes/sansoul/_examples/data/section/example.yml` as the parameter catalog
 
 ## Main data APIs
 
+- In Hugo and deployment configuration, write booleans as `true` or `false`.
+  In CMS-managed `content/` and `data/`, tri-state pseudobooleans use absent
+  for inheritance, `1` for enabled, and `0` for disabled. Never use `y`/`n`.
 - `data/config.yml`: behavior and integrations.
 - `data/langs.yml`: languages and per-language overrides.
 - `data/styles.yml`: design tokens and global UI options.
@@ -114,14 +117,15 @@ When asked to update the submodule:
 4. read `themes/sansoul/MIGRATIONS.md`, run `sh do migrations`, and apply every pending action in order;
 5. run `sh do root-docs` when the migration requires it; `--force` replaces unmanaged root README/AGENTS wholesale and never transfers their content into DNA;
 6. run the required project and theme validations;
-7. only then run `sh do migrations mark --yes`, which synchronizes root `package.json` and `package-lock.json`;
+7. only then run `sh do migrations mark --yes`, which synchronizes root `package.json` and, when present, `package-lock.json`;
 8. report the changed parent gitlink without staging or committing it.
 
 Never assume a successful build proves migration completeness, and never mark compatibility automatically during build or submodule update.
 
 ## Validation matrix
 
-Always start from the repository root with `npm ci` when dependencies are absent, then run `sh do hugo`.
+`sh do server` and `sh do local` may use a system Dart Sass without root
+`node_modules`. A full `sh do hugo` installs root npm dependencies when absent.
 
 | Change | Additional validation |
 | --- | --- |
@@ -136,6 +140,10 @@ Remote-font warnings can be environmental. Template errors, invalid YAML, missin
 
 ## Documentation and DNA
 
+Keep DNA project-specific and non-duplicative. Before adding or expanding a DNA document, check the generated root README/AGENTS and the relevant theme README/AGENTS. Do not restate generic architecture, workflows, validation, safety, or theme usage in DNA; record only project identity, audience, editorial/design/business/integration particulars, and local exceptions or constraints. Link to the canonical document when context is useful.
+
+Treat every request to change a root README or AGENTS file as a change to its canonical file under `themes/sansoul/templates/root/`, then regenerate the root documents with `sh do root-docs`. Never leave a reusable documentation or agent-contract change only in one consumer project. If the requested information is genuinely project-specific, route it to DNA instead of the shared templates.
+
 After every change, perform a documentation-impact check without waiting for the user to request it:
 
 - update `dna/_index.md` when project facts, constraints, or document routing change;
@@ -144,5 +152,3 @@ After every change, perform a documentation-impact check without waiting for the
 - update `themes/sansoul/templates/root/AGENTS.md` when this generated operating contract changes;
 - update `_examples/` for changed public parameters;
 - add a versioned entry to `MIGRATIONS.md` when a consumer may need action.
-
-Do not edit generated root README/AGENTS directly. Change their templates and run `sh do root-docs`.

@@ -1,5 +1,5 @@
 icons:
-  fill: y
+  fill: 1
   weight: 700
   grade: 0
   optical: 24
@@ -11,48 +11,48 @@ fonts:
     family: Montserrat
     weight: 400
     bold: 0
-    italic: n
+    italic: 0
     line_height: 1.25
   cursive:
     family: Dancing Script
     weight: 400
     bold: 0
-    italic: n
+    italic: 0
     line_height: 1.25
     size: 1
   title:
     family: Montserrat
     weight: 800
     bold: 0
-    italic: n
+    italic: 0
     line_height: 1.25
     size: 1
-  blockquote_cursive: y
+  blockquote_cursive: 1
 colors:
   main:
     color: '#bdd5ea'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: n
-      in: y
-      text: y
+      fill: 0
+      in: 1
+      text: 1
   alt:
     color: '#ffffff'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: y
-      in: y
-      text: y
+      fill: 1
+      in: 1
+      text: 1
   cta:
     color: '#fe5f55'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: n
-      in: y
-      text: y
+      fill: 0
+      in: 1
+      text: 1
   base:
     white: '#ffffff'
     light: '#eeeeee'
@@ -61,22 +61,22 @@ colors:
     black: '#000000'
 rounded:
   radius: 0.33
-  chamfer: y
+  chamfer: 1
 btns:
-  pill: n
-  disc: n
-  deep: y
-  outline: n
+  pill: 0
+  disc: 0
+  deep: 1
+  outline: 0
   font:
     type: title
-    bold: n
-    caps: y
+    bold: 0
+    caps: 1
   swap:
     type: base
-    bold: n
-    caps: n
+    bold: 0
+    caps: 0
 inputs:
-  fill: n
+  fill: 0
   labels: in
 shadow:
   left: 0.15

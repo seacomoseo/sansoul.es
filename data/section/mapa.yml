@@ -1,6 +1,6 @@
 name: Mapa
 menu_btn: hide
-ph: y
+ph: 1
 size: fluid
 boxes:
 - hanchor: Mapa

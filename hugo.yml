@@ -1,5 +1,5 @@
 baseURL: https://sansoul.pages.dev
-buildFuture: y
+buildFuture: true
 theme: [sansoul]
 params:
   owner: seacomoseo
