@@ -1,15 +1,12 @@
 {
   "name": "sansoul.es",
-  "version": "6.0.0",
+  "version": "6.0.2",
   "type": "module",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.1",
-    "@fullhuman/postcss-purgecss": "^6.0.0",
     "material-symbols": "^0.34.1",
-    "postcss": "^8.4.40",
-    "purgecss": "^6.0.0",
     "sass-embedded": "^1.100.0",
-    "sharp": "^0.33.5",
+    "sharp": "^0.35.3",
     "sharp-ico": "^0.1.5"
   },
   "scripts": {
