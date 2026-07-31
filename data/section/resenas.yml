@@ -6,7 +6,7 @@ boxes:
 - review:
     cols: 3
     color: white
-    slider: 1
+    slider: true
     time: 8
   reviews:
   - title: Lorem I.

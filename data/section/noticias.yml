@@ -8,4 +8,4 @@ boxes:
     max: 12
   box:
     cols: 4
-    slider: 1
+    slider: true

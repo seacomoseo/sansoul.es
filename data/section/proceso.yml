@@ -4,7 +4,7 @@ boxes:
   sub: ¿Qué pasos seguimos?
   icon: footprint
   step:
-    line: 1
+    line: true
   steps:
   - title: Lorem ipsum
     sub: Dolor sit amet
