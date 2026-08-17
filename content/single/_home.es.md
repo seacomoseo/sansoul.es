@@ -8,7 +8,7 @@ seo:
   desc: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: nosotros
   - file: servicios
   - file: proceso
