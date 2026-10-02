@@ -1,6 +1,6 @@
 title: Páginas Únicas
-weight: 0
 base: single
+weight: 0
 tpl:
   menu:
     logo: false
@@ -9,9 +9,9 @@ tpl:
     auto: same-modals
   callnow: auto
   section:
-  - size: lg
-    alpha: .7
+  - alpha: .7
     scroll: fix
+    size: lg
     div: curve-side
     div_x: false
     div_y: false

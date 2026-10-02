@@ -4,4 +4,5 @@ menu:
   sub: Tema de Hugo
 footer:
   div: curve-side
+  space: 2
   dots: []

@@ -1,5 +1,5 @@
 ---
-slug: inicio
+slug: /
 title: Inicio
 img: /u/base/poster.png
 sum: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
